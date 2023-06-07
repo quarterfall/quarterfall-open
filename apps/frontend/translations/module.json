@@ -1,0 +1,99 @@
+{
+    "add": { "en": "Add module", "nl": "Voeg module toe" },
+    "insert": { "en": "Insert module", "nl": "Voeg module in" },
+    "view": { "en": "View module", "nl": "Bekijk module" },
+    "noTitle": { "en": "Untitled module", "nl": "Naamloze module" },
+    "titleAddModule": { "en": "Add module", "nl": "Voeg module toe" },
+    "bodyAddModule": {
+        "en": "Enter the title of the module you'd like to add.",
+        "nl": "Vul de titel in van de module die je toe wilt voegen."
+    },
+    "titleInsertModule": { "en": "Insert module", "nl": "Voeg module in" },
+    "bodyInsertModule": {
+        "en": "Enter the title of the module you'd like to insert.",
+        "nl": "Vul de titel in van de module die je in wilt voegen."
+    },
+    "moduleCopiedNotification": {
+        "en": "The module has been copied.",
+        "nl": "De module is gekopieerd."
+    },
+    "titleCopyModule": { "en": "Copy module", "nl": "Kopieer module" },
+    "bodyCopyModule": {
+        "en": "Select the course that you'd like to copy this module to.",
+        "nl": "Selecteer de cursus waarnaar je deze module wilt kopiëren."
+    },
+    "moduleDeletedNotification": {
+        "en": "The module has been deleted.",
+        "nl": "De module is verwijderd."
+    },
+    "confirmDeleteModuleTitle": {
+        "en": "Delete module",
+        "nl": "Verwijder module"
+    },
+    "confirmDeleteModuleMessage": {
+        "en": "Are you sure you want to delete this module? This will also delete all associated assignments. This action cannot be undone.",
+        "nl": "Weet je zeker dat je deze module wilt verwijderen? Hiermee verwijder je ook alle gerelateerde opgaven. Deze actie kan niet ongedaan worden gemaakt."
+    },
+    "moduleMergedNotification": {
+        "en": "The module has been merged with the module to its left.",
+        "nl": "De module is gecombineerd met de module links ervan."
+    },
+    "confirmMergeModuleTitle": {
+        "en": "Merge with previous module",
+        "nl": "Combineer met vorige module"
+    },
+    "confirmMergeModuleMessage": {
+        "en": "Are you sure you want to merge this module with the module to the left? This will move all assignments to that module and delete this module. This action cannot be undone.",
+        "nl": "Weet je zeker dat je deze module wilt combineren met de module links hiervan? Hiermee verplaats je alle opgaven naar die module en verwijder je deze module. Deze actie kan niet ongedaan worden gemaakt."
+    },
+    "moduleDuplicated": {
+        "en": "The module has been duplicated.",
+        "nl": "De module is gedupliceerd."
+    },
+    "duplicatingModuleMessage": {
+        "en": "Duplicating module...",
+        "nl": "Module dupliceren..."
+    },
+    "title": { "en": "Module title", "nl": "Cursusmoduletitel" },
+    "description": { "en": "Description", "nl": "Omschrijving" },
+    "closesOn": {
+        "en": "This module closes on {{date}}",
+        "nl": "Deze module sluit op {{date}}"
+    },
+    "pastModulesChip": { "en": "Past modules", "nl": "Eerdere modules" },
+    "completedModulesChip": {
+        "en": "Completed modules",
+        "nl": "Afgeronde modules"
+    },
+    "futureModulesChip": {
+        "en": "Future modules",
+        "nl": "Toekomstige modules"
+    },
+    "moduleCompletedAlert": {
+        "en": "You have completed this module.",
+        "nl": "Je hebt deze module afgerond."
+    },
+    "materialCompleted": {
+        "en": "You have completed all mandatory material of this module.",
+        "nl": "Je hebt al het verplicht materiaal in deze module afgerond."
+    },
+    "closesSoon": {
+        "en": "The deadline for completing the mandatory assignments in this module will soon pass.",
+        "nl": "De deadline voor het afronden van de verplichte opgaven in deze module nadert."
+    },
+    "closedInfoMessage": {
+        "en": "This module was closed on {{date}}.",
+        "nl": "Deze module is gesloten op {{date}}."
+    },
+    "editSettingsTitle": {
+        "en": "General module settings",
+        "nl": "Algemene module-instellingen"
+    },
+    "nrAssignments": {
+        "en": "This module consists of {{count}} assignment(s).",
+        "nl": "Deze module bestaat uit {{count}} opgave(n)."
+    },
+    "endDate": { "en": "End date", "nl": "Einddatum" },
+    "startDate": { "en": "Start date", "nl": "Begindatum" },
+    "progress": { "en": "Module progress", "nl": "Module voortgang" }
+}
