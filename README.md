@@ -8,10 +8,9 @@ This monorepo uses [Yarn](https://classic.yarnpkg.com/) as a package manager. It
 
 ### Apps and Packages
 
--   `app`: a [Next.js](https://nextjs.org/) app with a [tRPC](https://trpc.io/) api
+-   `frontend`: a [Next.js](https://nextjs.org/) app with a MUI layout.
+-   `backend` : an [express](https://expressjs.com/) server that runs database actions.
 -   `cloudcheck`: an [express](https://expressjs.com/) server that can run various code snippets via POST requests.
--   `analytics`: [Google Cloud Functions](https://cloud.google.com/functions) for computing analytics
--   `ui`: a stub React component library used by `app`
 -   `core`: utilities library shared by `app`, `analytics` and `cloudcheck` applications
 
 Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
@@ -76,10 +75,4 @@ docker-compose -f docker-compose.yml up -d
 
 ```
 docker system prune --all
-```
-
--   Convert your .env file to a base64 encoded .txt file to be used in the Github actions
-
-```
-openssl base64 -A -in local.env -out local.txt
 ```
