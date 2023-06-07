@@ -1,0 +1,703 @@
+{
+    "validationErrorEmailAddress": {
+        "en": "Invalid e-mail address",
+        "nl": "Ongeldig e-mailadres"
+    },
+    "validationErrorRequired": {
+        "en": "This field is required",
+        "nl": "Dit veld is verplicht"
+    },
+    "validationError": { "en": "Validation error", "nl": "Fout bij validatie" },
+    "validationErrorInvalidVariableName": {
+        "en": "Invalid variable name",
+        "nl": "Ongeldige variabelenaam"
+    },
+    "validationErrorInvalidLabel": {
+        "en": "Invalid label",
+        "nl": "Ongeldig label"
+    },
+    "validationErrorInvalidUrl": {
+        "en": "Invalid url",
+        "nl": "Ongeldig url"
+    },
+    "validationErrorInvalidNumber": {
+        "en": "Please enter a valid number",
+        "nl": "Voer een geldig getal in"
+    },
+    "general": { "en": "General", "nl": "Algemeen" },
+    "role": { "en": "Role", "nl": "Rol" },
+    "roles": { "en": "Roles", "nl": "Rollen" },
+    "uploadComplete": {
+        "en": "File successfully uploaded.",
+        "nl": "Bestand succesvol geupload."
+    },
+    "uploadError": {
+        "en": "An error occurred during upload. Please try again later.",
+        "nl": "Er is een fout opgetreden tijdens het uploaden. Probeer het later nog eens."
+    },
+    "change": { "en": "Change", "nl": "Aanpassen" },
+    "continue": { "en": "Continue", "nl": "Doorgaan" },
+    "cancel": { "en": "Cancel", "nl": "Annuleren" },
+    "previous": { "en": "Previous", "nl": "Vorige" },
+    "next": { "en": "Next", "nl": "Volgende" },
+    "confirmDeleteImageTitle": {
+        "en": "Delete image",
+        "nl": "Afbeelding verwijderen"
+    },
+    "confirmDeleteImageBody": {
+        "en": "Are you sure you want to delete this image?",
+        "nl": "Weet je zeker dat je deze afbeelding wilt verwijderen?"
+    },
+    "changesSaved": {
+        "en": "The changes have been saved.",
+        "nl": "De wijzigingen zijn opgeslagen."
+    },
+    "filters": { "en": "Filters", "nl": "Filters" },
+    "show": { "en": "Show:", "nl": "Toon:" },
+    "default": { "en": "Default", "nl": "Standaard" },
+    "gridView": { "en": "Grid view", "nl": "Rasterweergave" },
+    "listView": { "en": "List view", "nl": "Lijstweergave" },
+    "orderBy": { "en": "Order by:", "nl": "Sorteer op:" },
+    "orderDirection": { "en": "Direction", "nl": "Richting" },
+    "ascending": { "en": "Ascending", "nl": "Oplopend" },
+    "descending": { "en": "Descending", "nl": "Aflopend" },
+    "description": { "en": "Description", "nl": "Omschrijving" },
+    "opensOn": { "en": "Starts on {{date}}", "nl": "Begint op {{date}}" },
+    "closesOn": { "en": "Closes on {{date}}", "nl": "Sluit op {{date}}" },
+    "closedOn": { "en": "Closed on {{date}}", "nl": "Gesloten op {{date}}" },
+    "startsOn": { "en": "Starts on {{date}}", "nl": "Begint op {{date}}" },
+    "closeDate": { "en": "Close date: {{date}}", "nl": "Einddatum: {{date}}" },
+    "startDate": { "en": "Start date: {{date}}", "nl": "Begindatum: {{date}}" },
+    "endsOn": { "en": "Ends on {{date}}", "nl": "Eindigt op {{date}}" },
+    "startsEndsOn": {
+        "en": "Open from {{startDate}} until {{endDate}}",
+        "nl": "Open van {{startDate}} t/m {{endDate}}"
+    },
+    "navigationItemsData": {
+        "en": "{{firstIndex}}-{{lastIndex}} of {{total}}",
+        "nl": "{{firstIndex}}-{{lastIndex}} van {{total}}"
+    },
+    "rowsNr": { "en": "{{rows}} rows", "nl": "{{rows}} rijen" },
+    "itemsNr": { "en": "{{items}} items", "nl": "{{items}} items" },
+    "view": { "en": "View", "nl": "Bekijk" },
+    "duplicate": { "en": "Duplicate", "nl": "Dupliceer" },
+    "search": { "en": "Search term", "nl": "Zoekterm" },
+    "startDateTime": {
+        "en": "Start date and time",
+        "nl": "Startdatum en -tijd"
+    },
+    "endDateTime": { "en": "End date and time", "nl": "Einddatum en -tijd" },
+    "startDateShouldBeBeforeEndDate": {
+        "en": "Start date should be before end date",
+        "nl": "Startdatum moet eerder dan einddatum zijn"
+    },
+    "endDateShouldBeBeforeStartDate": {
+        "en": "End date should be after start date",
+        "nl": "Einddatum moet later dan startdatum zijn"
+    },
+    "library": { "en": "Library", "nl": "Bibliotheek" },
+    "libraryMessage": {
+        "en": "In the near future, Quarterfall will offer a selection of ready-to-use courses. Please check back later for more information.",
+        "nl": "In de nabije toekomst zal Quarterfall een selectie van cursussen aanbieden die klaar zijn voor gebruik. Kom later terug voor meer informatie."
+    },
+    "notifications": { "en": "Notifications", "nl": "Meldingen" },
+    "course": { "en": "Course", "nl": "Cursus" },
+    "courses": { "en": "Courses", "nl": "Cursussen" },
+    "module": { "en": "Module", "nl": "Module" },
+    "modules": { "en": "Modules", "nl": "Modules" },
+    "assignment": { "en": "Assignment", "nl": "Opgave" },
+    "assignments": { "en": "Assignments", "nl": "Opgaven" },
+    "close": { "en": "Close", "nl": "Sluiten" },
+    "showAll": { "en": "Show all", "nl": "Toon alles" },
+    "content": { "en": "Content", "nl": "Inhoud" },
+    "settings": { "en": "Settings", "nl": "Instellingen" },
+    "users": { "en": "Users", "nl": "Gebruikers" },
+    "team": { "en": "Team", "nl": "Team" },
+    "analytics": { "en": "Analytics", "nl": "Analytics" },
+    "assessment": { "en": "Assessment", "nl": "Beoordeling" },
+    "visible": { "en": "Visible", "nl": "Zichtbaar" },
+    "notVisible": { "en": "Not visible", "nl": "Niet zichtbaar" },
+    "edit": { "en": "Edit", "nl": "Bewerk" },
+    "files": { "en": "Files", "nl": "Bestanden" },
+    "mergeIntoPrevious": {
+        "en": "Merge into previous",
+        "nl": "Combineer met vorige"
+    },
+    "copyTo": { "en": "Copy to…", "nl": "Kopieer naar…" },
+    "delete": { "en": "Delete", "nl": "Verwijder" },
+    "submissions": { "en": "Submissions", "nl": "Inzendingen" },
+    "pageLoading": { "en": "Loading…", "nl": "Laden…" },
+    "help": { "en": "Help", "nl": "Hulp" },
+    "reportBug": { "en": "Report bug", "nl": "Rapporteer bug" },
+    "ok": { "en": "Ok", "nl": "Ok" },
+    "clear": { "en": "Clear", "nl": "Maak leeg" },
+    "title": { "en": "Title", "nl": "Titel" },
+    "myCourses": { "en": "My courses", "nl": "Mijn cursussen" },
+    "personalSettings": {
+        "en": "Personal settings",
+        "nl": "Persoonlijke instellingen"
+    },
+    "organizationSettings": {
+        "en": "Organization settings",
+        "nl": "Organisatieinstellingen"
+    },
+    "add": { "en": "Add", "nl": "Toevoegen" },
+    "systemAdministration": {
+        "en": "System administration",
+        "nl": "Systeembeheer"
+    },
+    "poweredBy": { "en": "Powered by", "nl": "Powered by" },
+    "introduction": { "en": "Introduction", "nl": "Introductie" },
+    "programmingLanguage": {
+        "en": "Programming language",
+        "nl": "Programmeertaal"
+    },
+    "programmingLanguage_other": { "en": "Other", "nl": "Anders" },
+    "programmingLanguage_c": { "en": "C", "nl": "C" },
+    "programmingLanguage_r": { "en": "R", "nl": "R" },
+    "programmingLanguage_cpp": { "en": "C++", "nl": "C++" },
+    "programmingLanguage_csharp": { "en": "C#", "nl": "C#" },
+    "programmingLanguage_javascript": {
+        "en": "JavaScript",
+        "nl": "JavaScript"
+    },
+    "programmingLanguage_json": {
+        "en": "JSON",
+        "nl": "JSON"
+    },
+    "programmingLanguage_java": { "en": "Java", "nl": "Java" },
+    "programmingLanguage_python": { "en": "Python", "nl": "Python" },
+    "programmingLanguage_sql": { "en": "SQL", "nl": "SQL" },
+    "programmingLanguage_go": { "en": "Go", "nl": "Go" },
+    "programmingLanguage_haskell": { "en": "Haskell", "nl": "Haskell" },
+    "programmingLanguage_markup": {
+        "en": "Markup (HTML, XML)",
+        "nl": "Markup (HTML, XML)"
+    },
+    "programmingLanguage_css": { "en": "CSS", "nl": "CSS" },
+    "resetToDefault": {
+        "en": "Reset to default",
+        "nl": "Terug naar standaard"
+    },
+    "unknownError": {
+        "en": "An unknown error has occurred. Please try again later.",
+        "nl": "Er is een onbekende fout opgetreden. Probeer het later nog eens."
+    },
+    "pageNotFound": { "en": "Page not found.", "nl": "Pagina niet gevonden." },
+    "somethingWentWrong": {
+        "en": "Oops, something went wrong!",
+        "nl": "Oeps, er is iets misgegaaan!"
+    },
+    "errorHasBeenReported": {
+        "en": "The error has been reported",
+        "nl": "De fout is gemeld"
+    },
+    "noOptions": { "en": "No options", "nl": "Geen keuzes" },
+    "resetFilter": { "en": "Reset filter", "nl": "Herstel filter" },
+    "removeFilter": { "en": "Remove filter", "nl": "Verwijder filter" },
+    "moveUp": { "en": "Move up", "nl": "Omhoog" },
+    "moveDown": { "en": "Move down", "nl": "Omlaag" },
+    "preview": { "en": "preview", "nl": "voorbeeld" },
+    "filterByModule": { "en": "Filter by module", "nl": "Filter op module" },
+    "filterByAssignment": {
+        "en": "Filter by assignment",
+        "nl": "Filter op opgave"
+    },
+    "filterByStudent": { "en": "Filter by student", "nl": "Filter op student" },
+    "filterByRole": { "en": "Filter by role", "nl": "Filter op rol" },
+    "addFilter": { "en": "Add filter", "nl": "Voeg filter toe" },
+    "addModuleFilter": { "en": "Filter by module", "nl": "Filter op module" },
+    "addAssignmentFilter": {
+        "en": "Filter by assignment",
+        "nl": "Filter op opgave"
+    },
+    "addStudentFilter": {
+        "en": "Filter by student",
+        "nl": "Filter op student"
+    },
+    "student": { "en": "Student", "nl": "Student" },
+    "teacher": { "en": "Teacher", "nl": "Docent" },
+    "students": { "en": "Students", "nl": "Studenten" },
+    "comment": { "en": "Comment", "nl": "Opmerking" },
+    "rating": { "en": "Rating", "nl": "Beoordeling" },
+    "showPreview": { "en": "Show preview", "nl": "Laat voorbeeld zien" },
+    "hidePreview": { "en": "Hide preview", "nl": "Verberg voorbeeld" },
+    "showLess": { "en": "Show less", "nl": "Toon minder" },
+    "showMore": { "en": "Show more", "nl": "Toon meer" },
+    "hideOptions": { "en": "Hide options", "nl": "Opties verbergen" },
+    "advancedOptions": {
+        "en": "Advanced options",
+        "nl": "Geavanceerde opties"
+    },
+    "actions": { "en": "Actions", "nl": "Acties" },
+    "endDateShouldBeAfterStartDate": {
+        "en": "End date should be after start date",
+        "nl": "Einddatum moet later dan startdatum zijn"
+    },
+    "emailAddresses": {
+        "en": "Email addresses separated by a comma or space",
+        "nl": "E-mailadressen gescheiden door een komma of spatie"
+    },
+    "progress": { "en": "Progress", "nl": "Voortgang" },
+    "feedback": { "en": "Feedback", "nl": "Feedback" },
+    "solution": { "en": "Solution", "nl": "Oplossing" },
+    "viewLog": { "en": "View log", "nl": "Bekijk log" },
+    "cropImageDialogTitle": {
+        "en": "Select image part",
+        "nl": "Selecteer deel van de afbeelding"
+    },
+    "mathRenderError": {
+        "en": "Math rendering error",
+        "nl": "Wiskunde-renderfout"
+    },
+    "iframeRenderError": {
+        "en": "Iframe render error",
+        "nl": "Iframe-renderfout"
+    },
+    "imageRenderError": {
+        "en": "Image render error",
+        "nl": "Afbeelding-renderfout"
+    },
+    "downloadButtonRenderError": {
+        "en": "Button render error",
+        "nl": "Knop-renderfout"
+    },
+    "dailymotionRenderError": {
+        "en": "Dailymotion render error",
+        "nl": "Dailymotion-renderfout"
+    },
+    "googleDocsRenderError": {
+        "en": "GoogleDocs render error",
+        "nl": "GoogleDocs-renderfout"
+    },
+    "googleSheetsRenderError": {
+        "en": "GoogleSheets render error",
+        "nl": "GoogleSheets-renderfout"
+    },
+    "googleSlidesRenderError": {
+        "en": "GoogleSlites render error",
+        "nl": "GoogleSlides-renderfout"
+    },
+    "slideShareRenderError": {
+        "en": "Slideshare render error",
+        "nl": "Slideshare-renderfout"
+    },
+    "textRenderError": { "en": "Text render error", "nl": "Tekstrenderfout" },
+    "vimeoRenderError": {
+        "en": "Vimeo render error",
+        "nl": "Vimeo-renderfout"
+    },
+    "youtubeRenderError": {
+        "en": "Youtube render error",
+        "nl": "Youtube-renderfout"
+    },
+    "chartRenderError": {
+        "en": "Chart render error",
+        "nl": "Grafiekrenderfout"
+    },
+    "rawRenderError": {
+        "en": "Unknown rendering error",
+        "nl": "Onbekende renderfout"
+    },
+    "download": { "en": "Download", "nl": "Downloaden" },
+    "andXMore": { "en": "and {{x}} more.", "nl": "en nog {{x}} andere." },
+    "moveLeft": { "en": "Move left", "nl": "Naar links" },
+    "moveRight": { "en": "Move right", "nl": "Naar rechts" },
+    "readMore": { "en": "Read more", "nl": "Lees meer" },
+    "readLess": { "en": "Read less", "nl": "Lees minder" },
+    "accessError": {
+        "en": "You don't have access to this page.",
+        "nl": "Je hebt geen toegang tot deze pagina."
+    },
+    "enterEmailAddress": {
+        "en": "Enter your email address",
+        "nl": "Vul je e-mailadres in"
+    },
+    "emailAddress": { "en": "Email address", "nl": "E-mailadres" },
+    "contactUs": { "en": "Contact us", "nl": "Neem contact met ons op" },
+    "upgrade": { "en": "Upgrade", "nl": "Upgraden" },
+    "fileDeleted": {
+        "en": "The file has been deleted.",
+        "nl": "Het bestand is verwijderd."
+    },
+    "extension": { "en": "Extension", "nl": "Extensie" },
+    "label": { "en": "Label", "nl": "Label" },
+    "uploading": { "en": "Uploading…", "nl": "Uploaden…" },
+    "uploadFile": { "en": "Upload file", "nl": "Bestand uploaden" },
+    "confirmDeleteFileTitle": {
+        "en": "Delete file",
+        "nl": "Bestand verwijderen"
+    },
+    "confirmDeleteFileMessage": {
+        "en": "Are you sure you want to delete the file \"{{fileName}}\"?",
+        "nl": "Weet je zeker dat je het bestand \"{{fileName}}\" wilt verwijderen?"
+    },
+    "submit": { "en": "Submit", "nl": "Verzenden" },
+    "date": { "en": "Date", "nl": "Datum" },
+    "text": { "en": "Text", "nl": "Tekst" },
+    "published": { "en": "Published", "nl": "Gepubliceerd" },
+    "scrollToTop": { "en": "Scroll to top", "nl": "Scroll omhoog" },
+    "home": { "en": "Home", "nl": "Home" },
+    "editor": { "en": "Editor", "nl": "Editor" },
+    "logout": { "en": "Log out", "nl": "Uitloggen" },
+    "confirmLogoutTitle": {
+        "en": "Confirm logout",
+        "nl": "Bevestig uitloggen"
+    },
+    "confirmLogoutMessage": {
+        "en": "Are you sure you want to logout?",
+        "nl": "Weet je zeker dat je wilt uitloggen?"
+    },
+    "selectYourOrganization": {
+        "en": "Select your organization",
+        "nl": "Kies je organisatie"
+    },
+    "testQuestion": { "en": "Test this question", "nl": "Test deze vraag" },
+    "done": { "en": "Done", "nl": "Klaar" },
+    "author": { "en": "Author", "nl": "Auteur" },
+    "remarks": { "en": "Remarks", "nl": "Opmerkingen" },
+    "itemsSelected": {
+        "en": "{{count}} selected",
+        "nl": "{{count}} geselecteerd"
+    },
+    "codeCopiedToClipboardConfirmation": {
+        "en": "The code has been copied to your clipboard.",
+        "nl": "De code is gekopieerd naar je klembord."
+    },
+    "publish": { "en": "Publish", "nl": "Publiceer" },
+    "unpublish": { "en": "Unpublish", "nl": "Depubliceren" },
+    "share": { "en": "Share", "nl": "Deel" },
+    "stopSharing": { "en": "Stop sharing", "nl": "Stop met delen" },
+    "copyCodeToClipboard": {
+        "en": "Copy code to clipboard",
+        "nl": "Kopieer de code naar het klembord"
+    },
+    "copyUrl": {
+        "en": "Copy url",
+        "nl": "Kopieer de url"
+    },
+    "copyUrlToClipboard": {
+        "en": "Copy url to clipboard",
+        "nl": "Kopieer de url naar het klembord"
+    },
+    "sendCodeByEmail": {
+        "en": "Send code by email",
+        "nl": "Verstuur de code per e-mail"
+    },
+    "shareCode": { "en": "Share code", "nl": "Deelcode" },
+    "codeNotFoundError": {
+        "en": "Invalid share code",
+        "nl": "Ongeldige deelcode"
+    },
+    "target": {
+        "en": "Target",
+        "nl": "Bestemming"
+    },
+    "studentCourses": {
+        "en": "Student courses",
+        "nl": "Studentcursussen"
+    },
+    "noEntriesFound": {
+        "en": "No entries found",
+        "nl": "Geen data gevonden"
+    },
+    "moreInformation": {
+        "en": "More Information",
+        "nl": "Meer Informatie"
+    },
+    "licenseExpired": {
+        "en": "Your license has expired and your account has been reverted to the free license.",
+        "nl": "Je licentie is verlopen en je account is teruggezet naar een gratis licentie."
+    },
+    "back": {
+        "en": "Back",
+        "nl": "Terug"
+    },
+    "selectEmpty": {
+        "en": "None selected",
+        "nl": "Geen geselecteerd"
+    },
+    "grading": {
+        "en": "Grading",
+        "nl": "Beoordeling"
+    },
+    "gradingSchemes": {
+        "en": "Grading schemes",
+        "nl": "Beoordelingschemas"
+    },
+    "missingObjectViewerTypename": {
+        "en": "Object has no typename",
+        "nl": "Object heeft geen typenaam"
+    },
+    "unknownObjectViewerTypename": {
+        "en": "Unknown object type name: {{__typename}}",
+        "nl": "Onbekende typenaam voor object: {{__typename}}"
+    },
+    "unknownListType": {
+        "en": "Unknown list type: {{type}}",
+        "nl": "Onbekend lijsttype: {{type}}"
+    },
+    "createdAt": {
+        "en": "Created at",
+        "nl": "Aangemaakt op"
+    },
+    "createdAtDate": {
+        "en": "Created at: {{date}}",
+        "nl": "Aangemaakt op: {{date}}"
+    },
+    "organizations": {
+        "en": "Organizations",
+        "nl": "Organisaties"
+    },
+    "archived": { "en": "Archived", "nl": "Gearchiveerd" },
+    "organization": {
+        "en": "Organization",
+        "nl": "Organisatie"
+    },
+    "save": {
+        "en": "Save",
+        "nl": "Opslaan"
+    },
+    "score": {
+        "en": "Score",
+        "nl": "Score"
+    },
+    "grade": {
+        "en": "Grade",
+        "nl": "Cijfer"
+    },
+    "reset": {
+        "en": "Reset",
+        "nl": "Reset"
+    },
+    "code": {
+        "en": "Code",
+        "nl": "Code"
+    },
+    "accept": {
+        "en": "Accept",
+        "nl": "Accepteren"
+    },
+    "decline": {
+        "nl": "Afwijzen",
+        "en": "Decline"
+    },
+    "validationJSON": {
+        "en": "Invalid JSON format",
+        "nl": "Ongeldig JSON-formaat"
+    },
+    "validationShouldIncludeScore": {
+        "en": "The code should include a score.",
+        "nl": "De code moet een score bevatten."
+    },
+    "validationShouldIncludeReturn": {
+        "en": "The code should include a return statement.",
+        "nl": "De code moet een return-opdracht bevatten."
+    },
+    "userNotFound": {
+        "en": "We couldn't find a Pro account associated with this email address.",
+        "nl": "We konden geen Pro-account vinden gekoppeld aan dit e-mailadres."
+    },
+    "roundedToInteger_name": {
+        "en": "Rounded to 1-10",
+        "nl": "Afgerond naar 1-10"
+    },
+    "roundedToInteger_description": {
+        "en": "This scheme calculates grades by rounding the scores between 1 (worst) and 10 (best).",
+        "nl": "Dit schema berekent cijfers door de scores af te ronden tussen 1 (slechtst) en 10 (best)."
+    },
+    "roundedToHalves_name": {
+        "en": "Rounded to halves",
+        "nl": "Afgerond naar halve cijfers"
+    },
+    "roundedToHalves_description": {
+        "en": "This scheme calculates grades between 1 (worst) and 10 (best). The grade is computed by dividing the sum of the score of each question by the maximum, and then multiplying it by 9 and adding 1.",
+        "nl": "Dit schema gebruikt cijfers tussen 1 (slechtst) en 10 (best). Het cijfer wordt berekend door de som van de score van elke vraag te delen door het maximum, te vermenigvuldigen met 9 en daar 1 bij te tellen."
+    },
+    "dutchGrade_name": {
+        "en": "Dutch grading system",
+        "nl": "Nederlands beoordelingsschema"
+    },
+    "dutchGrade_description": {
+        "en": "This scheme uses the rounded to halves method but the grade is rounded if between 5 and 6.",
+        "nl": "Dit schema rondt af naar halve cijfers, maar rondt af naar hele cijfers als het cijfer tussen 5 en 6 is."
+    },
+    "scoreAsGrade_name": {
+        "en": "Score as grade",
+        "nl": "Score als cijfer"
+    },
+    "scoreAsGrade_description": {
+        "en": "No grading scheme is applied, the grade is the score.",
+        "nl": "Er wordt geen beoordelingsschema toegepast. Het cijfer is de score."
+    },
+    "usLetterGrade_name": {
+        "en": "USA A-B-C-D-E",
+        "nl": "VS A-B-C-D-E"
+    },
+    "usLetterGrade_description": {
+        "en": "The most commonly used grading system in the United States, which is in the form of letter grades (A-F).",
+        "nl": "Het meestgebruikte beoordelingssysteem in de Verenigde Staten, wat gebruikmaakt van letters als cijfer (A-F)."
+    },
+    "cdLetterGrade_name": {
+        "en": "Canada A+-A-B-C-D-F",
+        "nl": "Canadese A+-A-B-C-D-F"
+    },
+    "cdLetterGrade_description": {
+        "en": "The most commonly used grading system in Canada, which is in the form of letter grades (A-F).",
+        "nl": "Het meestgebruikte beoordelingssysteem in Canada, wat gebruikmaakt van letters als cijfer (A+-F)."
+    },
+    "auLetterGrade_name": {
+        "en": "Australian (HD-D-C-P-N)",
+        "nl": "Australisch (HD-D-C-P-N)"
+    },
+    "auLetterGrade_description": {
+        "en": "The most commonly used grading system in Australia, which is in the form of letter grades (HD-N).",
+        "nl": "Het meestgebruikte beoordelingssysteem in Australië, wat gebruikmaakt van letters als cijfer (HD-N)."
+    },
+    "passFailGrade_name": {
+        "en": "Pass/fail",
+        "nl": "Voldoende/onvoldoende"
+    },
+    "passFailGrade_description": {
+        "en": "If the score is higher than 55 the student gets a passed grade, otherwise gets a failed grade.",
+        "nl": "Bij een score lager dan 55 krijgt de student een onvoldoende, anders een voldoende."
+    },
+    "testData": {
+        "en": "Test dataset",
+        "nl": "Test-dataset"
+    },
+    "test": {
+        "en": "Test",
+        "nl": "Test"
+    },
+    "file-invalid-type": {
+        "en": "Filetype of {{file}} is invalid.",
+        "nl": "Bestandstype van {{file}} is ongeldig."
+    },
+    "file-too-large": {
+        "en": "{{file}} is too large.",
+        "nl": "{{file}} is te groot."
+    },
+    "file-too-small": {
+        "en": "{{file}} is too small.",
+        "nl": "{{file}} is te klein."
+    },
+    "too-many-files": {
+        "en": "There are too many files.",
+        "nl": "Er zijn te veel bestanden."
+    },
+    "cannotPreviewFile": {
+        "en": "Cannot preview file",
+        "nl": "Kan geen voorbeeld bestand weergeven"
+    },
+    "showTest": {
+        "en": "Show test",
+        "nl": "Toon test"
+    },
+    "hideTest": {
+        "en": "Hide test",
+        "nl": "Verberg test"
+    },
+    "knowledgeBase": {
+        "en": "Knowledge base",
+        "nl": "Kennisbank"
+    },
+    "dashboard": {
+        "en": "Dashboard",
+        "nl": "Dashboard"
+    },
+    "eventType_module.created": {
+        "en": "Module {{moduleTitle}} has been created by {{user}}",
+        "nl": "Module {{moduleTitle}} is aangemaakt door {{user}}"
+    },
+    "eventType_module.updated": {
+        "en": "Module {{moduleTitle}} has been updated by {{user}}",
+        "nl": "Module {{moduleTitle}} is bijgewerkt door {{user}}"
+    },
+    "eventType_module.deleted": {
+        "en": "Module {{moduleTitle}} has been deleted by {{user}}",
+        "nl": "Module {{moduleTitle}} is verwijderd door {{user}}"
+    },
+    "eventType_assignment.created": {
+        "en": "Assignment {{assignmentTitle}} has been created in module {{moduleTitle}} by {{user}}",
+        "nl": "Opgave {{assignmentTitle}} is aangemaakt in module {{moduleTitle}} door {{user}}"
+    },
+    "eventType_assignment.updated": {
+        "en": "Assignment {{assignmentTitle}} has been updated in module {{moduleTitle}} by {{user}}",
+        "nl": "Opgave {{assignmentTitle}} is bijgewerkt in module {{moduleTitle}} door {{user}}"
+    },
+    "eventType_assignment.deleted": {
+        "en": "Assignment {{assignmentTitle}} has been deleted by in module {{moduleTitle}} by {{user}}",
+        "nl": "Opgave {{assignmentTitle}} is verwijderd in module {{moduleTitle}} door {{user}}"
+    },
+    "eventType_block.created": {
+        "en": "Question {{questionTitle}} has been created in assignment {{assignmentTitle}} by {{user}}",
+        "nl": "Vraag {{questionTitle}} is aangemaakt in opgave {{assignmentTitle}} door {{user}}"
+    },
+    "eventType_block.updated": {
+        "en": "Question {{questionTitle}} has been updated in assignment {{assignmentTitle}} by {{user}}",
+        "nl": "Vraag {{questionTitle}} is bijgewerkt in opgave {{assignmentTitle}} door {{user}}"
+    },
+    "eventType_block.deleted": {
+        "en": "Question {{questionTitle}} has been deleted by in assignment {{assignmentTitle}} by {{user}}",
+        "nl": "Vraag {{questionTitle}} is verwijderd in opgave {{assignmentTitle}} door {{user}}"
+    },
+    "eventType_submission.created": {
+        "en": "Student {{student}} started doing assignment {{assignmentTitle}}",
+        "nl": "Student {{student}} heeft de opgave {{assignmentTitle}} ingeleverd"
+    },
+    "eventType_submission.submitted": {
+        "en": "Student {{student}} submitted assignment {{assignmentTitle}}",
+        "nl": "Student {{student}} is begonnen met de opgave {{assignmentTitle}}"
+    },
+    "eventType_submission.deleted": {
+        "en": "{{user}} deleted the submission of {{student}} for assignment {{assignmentTitle}}",
+        "nl": "{{user}} heeft de inzending van {{student}} voor opgave {{assignmentTitle}}"
+    },
+    "eventType_submission.approved": {
+        "en": "{{user}} approved the submission of {{student}} for assignment {{assignmentTitle}}",
+        "nl": "{{user}} keurde de inzending van {{student}} goed voor opgave {{assignmentTitle}}"
+    },
+    "invited": {
+        "en": "Invited",
+        "nl": "Uitgenodigd"
+    },
+    "active": { "en": "Active", "nl": "Actief" },
+    "enrolled": { "en": "Enrolled", "nl": "Ingeschreven" },
+    "addAnalyticsBlock": {
+        "en": "Add analytics block",
+        "nl": "Voeg analyticsblok toe"
+    },
+    "poweredByMarkdown": {
+        "en": "Powered by Markdown",
+        "nl": "Powered by Markdown"
+    },
+    "clickToEdit": {
+        "en": "Click to edit",
+        "nl": "Klik om te bewerken"
+    },
+    "noNameLoginTitle": {
+        "en": "Welcome to Quarterfall!",
+        "nl": "Welkom bij Quarterfall!"
+    },
+    "noNameLoginBody": {
+        "en": "It looks like you haven't provided your name yet. In order to be able to give you a good user experience, please fill in your first and last name and click continue to save.",
+        "nl": "Het lijkt erop dat je je naam nog niet hebt opgegeven. Om je een goede gebruikerservaring te kunnen bieden, vul hieronder je voor- en achternaam in en klik op opslaan."
+    },
+    "about": {
+        "en": "About",
+        "nl": "Over"
+    },
+    "tags": {
+        "en": "Tags",
+        "nl": "Tags"
+    },
+    "submitted": {
+        "en": "Submitted",
+        "nl": "Ingediend"
+    },
+    "enrollmentCode": {
+        "en": "Enrollment code",
+        "nl": "Inschrijvingscode"
+    }
+}

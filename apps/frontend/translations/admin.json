@@ -1,0 +1,32 @@
+{
+    "users": { "en": "Users", "nl": "Gebruikers" },
+    "systemAdministration": {
+        "en": "System administration",
+        "nl": "Systeembeheer"
+    },
+    "analyticsPresets": { "en": "Analytics presets", "nl": "Analysepresets" },
+    "loginAsSysAdmin": {
+        "en": "Remain system administrator",
+        "nl": "Blijf systeembeheerder"
+    },
+    "loginAsUser": {
+        "en": "Log in as another user",
+        "nl": "Inloggen als een andere gebruiker"
+    },
+    "systemAdminSetting": {
+        "en": "System administration setting",
+        "nl": "Systeembeheerinstelling"
+    },
+    "library": {
+        "en": "Course library",
+        "nl": "Cursusbibliotheek"
+    },
+    "publishCourseToLibrary": {
+        "en": "Publish course to library",
+        "nl": "Publiceer cursus in bibliotheek"
+    },
+    "coursePublishedToLibraryNotification": {
+        "en": "The course has been published in the library",
+        "nl": "De cursus is gepubliceerd in de bibliotheek"
+    }
+}

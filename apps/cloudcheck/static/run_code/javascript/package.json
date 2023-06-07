@@ -1,0 +1,8 @@
+{
+    "name": "runcode-javascript",
+    "version": "0.0.1",
+    "scripts": {
+        "build": "node build.js",
+        "start": "node code.js < inputs.txt > outputs.txt"
+    }
+}

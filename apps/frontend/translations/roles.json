@@ -1,0 +1,12 @@
+{
+    "courseAdmin": { "en": "Course administrator", "nl": "Cursusbeheerder" },
+    "courseEditor": { "en": "Course editor", "nl": "Cursuseditor" },
+    "courseChecker": { "en": "Checker", "nl": "Nakijker" },
+    "courseViewer": { "en": "Viewer", "nl": "Lezer" },
+    "courseStudent": { "en": "Student", "nl": "Student" },
+    "organizationOther": { "en": "Other", "nl": "Anders" },
+    "organizationStudent": { "en": "Student", "nl": "Student" },
+    "organizationStaff": { "en": "Staff", "nl": "Medewerker" },
+    "organizationAdmin": { "en": "Administrator", "nl": "Beheerder" },
+    "edit": { "en": "Edit role", "nl": "Bewerk rol" }
+}

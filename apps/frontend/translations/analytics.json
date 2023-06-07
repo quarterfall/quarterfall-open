@@ -1,0 +1,224 @@
+{
+    "useTestDataset": { "en": "Use test dataset", "nl": "Gebruik testdataset" },
+    "fullWidth": { "en": "Full width", "nl": "Volledige breedte" },
+    "organizationDefaults": {
+        "en": "Analytics settings",
+        "nl": "Analyticsinstellingen"
+    },
+    "organizationDefaultsTitle": {
+        "en": "Default course analytics blocks",
+        "nl": "Standaard cursusanalyticsblokken"
+    },
+    "organizationDefaultsDescription": {
+        "en": "On this page, you can edit the default analytics pages that are used for every course. You can edit the default analytics pages for the overall course, for a module, for an assignment, and for a student.",
+        "nl": "Op deze pagina kun je de standaard analyticspagina's bewerken die gebruikt worden voor elke cursus: de pagina voor de cursus in het algemeen, voor een module, voor een opgave, en voor een student."
+    },
+    "type": { "en": "Analytics type", "nl": "Analyticstype" },
+    "type_organization": { "en": "Organization", "nl": "Organisatie" },
+    "type_course": { "en": "Course", "nl": "Cursus" },
+    "type_module": { "en": "Module", "nl": "Module" },
+    "type_assignment": { "en": "Assignment", "nl": "Opgave" },
+    "type_student": { "en": "Student", "nl": "Student" },
+    "selectType": { "en": "Analytics page:", "nl": "Analyticspagina:" },
+    "addBlank": { "en": "Empty analytics block", "nl": "Leeg analyticsblok" },
+    "editBlock": { "en": "Edit analytics block", "nl": "Bewerk analyticsblok" },
+    "unknownText": { "en": "Can't read text.", "nl": "Kan tekst niet lezen." },
+    "unknownChartType": {
+        "en": "Unknown chart type: {{type}}.",
+        "nl": "Onbekend grafiektype: {{type}}."
+    },
+    "courseTitle": { "en": "Course analytics", "nl": "Cursusanalytics" },
+    "courseDescription": {
+        "en": "This page shows analytics data for the entire course.",
+        "nl": "Deze pagina laat analyticsinformatie zien over de gehele cursus."
+    },
+    "moduleTitle": { "en": "Module analytics", "nl": "Moduleanalytics" },
+    "moduleDescription": {
+        "en": "This page shows analytics data for a particular module.",
+        "nl": "Deze pagina laat analyticsinformatie zien voor een specifieke module."
+    },
+    "assignmentTitle": {
+        "en": "Assignment analytics",
+        "nl": "Opgaveanalytics"
+    },
+    "assignmentDescription": {
+        "en": "This page shows analytics data for a particular assignment.",
+        "nl": "Deze pagina laat analyticsinformatie zien voor een specifieke opgave."
+    },
+    "studentTitle": { "en": "Student analytics", "nl": "Studentanalytics" },
+    "studentDescription": {
+        "en": "This page shows analytics data for a particular student.",
+        "nl": "Deze pagina laat analyticsinformatie zien voor een specifieke student."
+    },
+    "presetName": { "en": "Preset name", "nl": "Presetnaam" },
+    "block": { "en": "Analytics block", "nl": "Analyticsblok" },
+    "blockCode": { "en": "Analytics code", "nl": "Analyticscode" },
+    "log": { "en": "Analytics log", "nl": "Analyticslogboek" },
+    "warningEditBlockAssignment": {
+        "en": "When you edit this analytics block, the changes will apply to all assignments in this course.",
+        "nl": "Als je dit analyticsblok bewerkt, dan worden de wijzigingen doorgevoerd voor alle opgaven in deze cursus."
+    },
+    "warningEditBlockModule": {
+        "en": "When you edit this analytics block, the changes will apply to all modules in this course.",
+        "nl": "Als je dit analyticsblok bewerkt, dan worden de wijzigingen doorgevoerd voor alle modules in deze cursus."
+    },
+    "warningEditBlockStudent": {
+        "en": "When you edit this analytics block, the changes will apply to all students in this course.",
+        "nl": "Als je dit analyticsblok bewerkt, dan worden de wijzigingen doorgevoerd voor alle studenten in deze cursus."
+    },
+    "confirmDeleteBlockTitle": {
+        "en": "Delete analytics block",
+        "nl": "Verwijder analyticsblok"
+    },
+    "confirmDeleteBlockMessage": {
+        "en": "Are you sure you want to delete this analytics block? This action cannot be undone.",
+        "nl": "Weet je zeker dat je dit analyticsblok wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt."
+    },
+    "titleAddPreset": { "en": "Add preset", "nl": "Voeg preset toe" },
+    "bodyAddPreset": {
+        "en": "Enter the name of the preset and choose the analytics block type.",
+        "nl": "Vul de naam van de preset in en kies het analyticsbloktype."
+    },
+    "presetsDeletedNotification": {
+        "en": "The selected preset(s) have been deleted.",
+        "nl": "De geselecteerde preset(s) zijn verwijderd."
+    },
+    "confirmDeletePresetsTitle": {
+        "en": "Delete analytics block presets",
+        "nl": "Verwijder analyticsblok-presets"
+    },
+    "confirmDeletePresetsMessage": {
+        "en": "Are you sure you want to delete these analytics block presets? This action cannot be undone.",
+        "nl": "Weet je zeker dat je deze analyticsblok-presets wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt."
+    },
+    "filterByType": {
+        "en": "Filter by analytics type",
+        "nl": "Filter op analyticstype"
+    },
+    "countSubmissionsPerAssignment": {
+        "en": "Submissions per assignment",
+        "nl": "Inzendingen per opgave"
+    },
+    "countSubmissionsPerModule": {
+        "en": "Submissions per module",
+        "nl": "Inzendingen per module"
+    },
+    "countSubmissionsPerDay": {
+        "en": "Submissions per day",
+        "nl": "Inzendingen per dag"
+    },
+    "countSubmissionsPerDayTitle": {
+        "en": "Number of submissions per day",
+        "nl": "Aantal inzendingen per dag"
+    },
+    "countSubmissionsPerModuleTitle": {
+        "en": "Number of submissions per module",
+        "nl": "Aantal inzendingen per module"
+    },
+    "countSubmissionsPerAssignmentTitle": {
+        "en": "Number of submissions per assignment",
+        "nl": "Aantal inzendingen per opgave"
+    },
+    "jokeOfTheDay": { "en": "Joke of the day", "nl": "Grap van de dag" },
+    "jokeOfTheDayTitle": { "en": "Joke of the day", "nl": "Grap van de dag" },
+    "percentageCompleted": {
+        "en": "% of students completed",
+        "nl": "% studenten afgerond"
+    },
+    "percentageCompletedTitle": {
+        "en": "Percentage of students that completed this assignment",
+        "nl": "Percentage van studenten dat deze opgave heeft afgemaakt"
+    },
+    "timeSpentPerAssignment": {
+        "en": "Time spent (avg) per assignment",
+        "nl": "Gemiddelde bestede tijd per opgave"
+    },
+    "timeSpentPerAssignmentTitle": {
+        "en": "Average time spent per assignment",
+        "nl": "Gemiddelde bestede tijd per opgave"
+    },
+    "assignmentsByDifficulty": {
+        "en": "Top 10 most difficult assignments",
+        "nl": "Top 10 moeilijkste opgaves"
+    },
+    "avgAssignmentRatingByStudent": {
+        "en": "Average rating by the students",
+        "nl": "Gemiddelde beoordeling van de studenten"
+    },
+    "avgAssignmentRatingByStudentTitle": {
+        "en": "Average rating by the students",
+        "nl": "Gemiddelde beoordeling van de studenten"
+    },
+    "assignmentStudentComments": {
+        "en": "Comments by the students",
+        "nl": "Commentaar van de student"
+    },
+    "assignmentStudentCommentsTitle": {
+        "en": "Comments by the students",
+        "nl": "Commentaar van de student"
+    },
+    "studentAssignmentsCompleted": {
+        "en": "Assignments completed by this student",
+        "nl": "Opgaven afgerond door deze student"
+    },
+    "studentAssignmentsCompletedTitle": {
+        "en": "Assignments completed by this student",
+        "nl": "Opgaven afgerond door deze student"
+    },
+    "studentModulesCompleted": {
+        "en": "Modules completed by this student",
+        "nl": "Modules afgerond door deze student"
+    },
+    "studentModulesCompletedTitle": {
+        "en": "Modules completed by this student",
+        "nl": "Modules afgerond door deze student"
+    },
+    "studentAssignmentFeedback": {
+        "en": "Assignment feedback by this student",
+        "nl": "Feedback op de opgave door deze student"
+    },
+    "studentAssignmentFeedbackTitle": {
+        "en": "Assignment feedback by this student",
+        "nl": "Feedback op de opgave door deze student"
+    },
+    "mostActiveStudent": {
+        "en": "Most active student",
+        "nl": "Meest actieve student"
+    },
+    "hardestAssignment": {
+        "en": "Most difficult assignment",
+        "nl": "Moeilijkste opgave"
+    },
+    "mostUsefulAssignment": {
+        "en": "Most useful assignment",
+        "nl": "Meest nuttige opgave"
+    },
+    "submissionsTotal": {
+        "en": "Number of submissions",
+        "nl": "Aantal inzendingen"
+    },
+    "mostActiveStudents": {
+        "en": "Most active students",
+        "nl": "Meest actieve studenten"
+    },
+    "mostActiveStudentsTitle": {
+        "en": "Most active students",
+        "nl": "Meest actieve studenten"
+    },
+    "unknownRatingValue": {
+        "en": "Unknown rating value",
+        "nl": "Onbekende ratingwaarde"
+    },
+    "computeAnalytics": {
+        "en": "Compute analytics",
+        "nl": "Bereken analytics"
+    },
+    "recomputeAlert": {
+        "en": "You have made changes to the analytics block. To see the changes in the preview, please click the button below.",
+        "nl": "U heeft wijzigingen aangebracht in het analyseblok. Klik op de onderstaande knop om de wijzigingen in het voorbeeld te zien."
+    },
+    "noDataToDisplay": {
+        "en": "No analytics result to display yet. The results will be visible within 24 hours.",
+        "nl": "Nog geen analyseresultaat om weer te geven. De resultaten zijn binnen 24 uur zichtbaar."
+    }
+}

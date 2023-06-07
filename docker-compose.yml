@@ -1,0 +1,28 @@
+version: "3"
+
+services:
+    frontend:
+        container_name: frontend
+        build:
+            context: .
+            dockerfile: ./apps/frontend/Dockerfile
+        restart: always
+        ports:
+            - 2000:80
+    backend:
+        container_name: backend
+        build:
+            context: .
+            dockerfile: ./apps/backend/Dockerfile
+        restart: always
+        ports:
+            - 2500:2500
+    cloudcheck:
+        container_name: cloudcheck
+        platform: linux/amd64
+        build:
+            context: .
+            dockerfile: ./apps/cloudcheck/Dockerfile
+        restart: always
+        ports:
+            - 2700:2700

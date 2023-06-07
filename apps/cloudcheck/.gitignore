@@ -1,0 +1,34 @@
+# generated files for javascript example
+javascript/node_modules
+javascript/qf.json
+
+# generated files for python example
+python/src/__pycache__
+python/qf.json
+
+# generated files for java example
+java/build
+java/.gradle
+java/qf.json
+
+# generated files for c++ example
+cpp/src/CMakeFiles
+cpp/src/cmake_install.cmake
+cpp/src/CMakeCache.txt
+cpp/src/Makefile
+cpp/src/test
+cpp/qf.json
+
+# generated files for c# example
+csharp/src/bin
+csharp/src/obj
+csharp/qf.json
+
+# build folders
+node_modules
+.env
+.env.staging
+.env.production
+
+# other files
+**/.DS_Store

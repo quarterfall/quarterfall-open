@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "target": "es5",
+        "experimentalDecorators": true,
+        "esModuleInterop": true,
+        "emitDecoratorMetadata": true,
+        "lib": ["dom", "es6"],
+        "outDir": "dist",
+        "baseUrl": "./src",
+        "strictNullChecks": true,
+        "paths": {
+            "*": ["./*"]
+        }
+    },
+    "exclude": ["node_modules"]
+}

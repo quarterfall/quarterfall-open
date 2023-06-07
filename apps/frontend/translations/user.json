@@ -1,0 +1,71 @@
+{
+    "firstName": { "en": "First name", "nl": "Voornaam" },
+    "lastName": { "en": "Last name", "nl": "Achternaam" },
+    "emailAddress": { "en": "E-mail address", "nl": "E-mailadres" },
+    "interfaceSettings": {
+        "en": "User interface",
+        "nl": "Gebruikersinterface"
+    },
+    "interfaceLanguage": { "en": "Interface language", "nl": "Interfacetaal" },
+    "darkMode": { "en": "Dark mode", "nl": "Donkere modus" },
+    "exampleCode": { "en": "Example code", "nl": "Voorbeeldcode" },
+    "notifications": { "en": "Notifications", "nl": "Meldingen" },
+    "avatarImage": { "en": "Avatar", "nl": "Avatar" },
+    "personalSettingsTitle": {
+        "en": "Personal settings",
+        "nl": "Persoonlijke gegevens"
+    },
+    "titleChangeEmailAddress": {
+        "en": "Change your e-mail address",
+        "nl": "E-mailadres aanpassen"
+    },
+    "bodyChangeEmailAddress": {
+        "en": "Enter your new e-mail address below.",
+        "nl": "Vul hieronder je nieuwe e-mailadres in."
+    },
+    "titleChangePassword": {
+        "en": "Change password",
+        "nl": "Wachtwoord aanpassen"
+    },
+    "bodyChangePassword": {
+        "en": "Enter your current password and your new password below.",
+        "nl": "Vul je huidige wachtwoord en je nieuwe wachtwoord hieronder in."
+    },
+    "currentPassword": { "en": "Current password", "nl": "Huidig wachtwoord" },
+    "newPassword": { "en": "New password", "nl": "Nieuw wachtwoord" },
+    "avatar": { "en": "Avatar", "nl": "Avatar" },
+    "invitationResent": {
+        "en": "A new invitation email was sent to the user.",
+        "nl": "Er is een nieuwe uitnodiging verstuurd naar deze gebruiker."
+    },
+    "invitationResentStudent": {
+        "en": "A new invitation email was sent to the student.",
+        "nl": "Er is een nieuwe uitnodiging verstuurd naar deze student."
+    },
+    "resendInvitation": {
+        "en": "Resend invitation email",
+        "nl": "Verstuur uitnodiging opnieuw"
+    },
+    "invitationText": {
+        "en": "{{inviter}} invited you to join the course \"{{course}}\".",
+        "nl": "{{inviter}} heeft je uitgenodigd om deel te nemen aan de cursus \"{{course}}\"."
+    },
+    "invitationAcceptedToast": {
+        "en": "You have accepted the invitation and have been enrolled into the course.",
+        "nl": "Je hebt de uitnodiging geaccepteerd en bent nu ingeschreven bij de cursus."
+    },
+    "invitationDeclinedToast": {
+        "en": "You have declined the invitation.",
+        "nl": "Je hebt de uitnodiging afgewezen."
+    },
+    "showInvited": {
+        "en": "Show invited",
+        "nl": "Toon uitgenodigd"
+    },
+    "aboutStudent": {
+        "en": "About this student",
+        "nl": "Over deze student"
+    },
+    "fullName": { "en": "Full name", "nl": "Naam" },
+    "dateJoined": { "en": "Date joined", "nl": "Lid geworden op" }
+}

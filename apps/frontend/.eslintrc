@@ -1,0 +1,7 @@
+{
+    "extends": ["next", "prettier"],
+    "rules": {
+        "react/display-name": "off",
+        "@next/next/no-assign-module-variable": "off"
+    }
+}
