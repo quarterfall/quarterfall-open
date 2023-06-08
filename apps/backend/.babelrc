@@ -1,0 +1,19 @@
+{
+    "plugins": [
+        [
+            "module-resolver",
+            {
+                "root": ["./src"],
+                "alias": {
+                    "action": "./src/action",
+                    "db": "./src/db",
+                    "event:": "./src/event",
+                    "routes": "./src/routes",
+                    "orm": "./src/orm",
+                    "graphql": "./src/graphql",
+                    "search": "./src/search"
+                }
+            }
+        ]
+    ]
+}

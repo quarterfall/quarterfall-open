@@ -1,0 +1,393 @@
+{
+    "description": { "en": "Description", "nl": "Omschrijving" },
+    "demo": { "en": "Demo course", "nl": "Democursus" },
+    "demoTooltip": {
+        "en": "This course is automatically created by Quarterfall to give an overview of the platform's features.",
+        "nl": "Deze cursus is automatisch gegenereerd door Quarterfall om een overzicht te geven van de mogelijkheden van het platform."
+    },
+    "archivedCoursesChip": {
+        "en": "Archived courses",
+        "nl": "Gearchiveerde cursussen"
+    },
+    "allOrgCoursesChip": {
+        "en": "All organization courses",
+        "nl": "Alle cursussen in de organisatie"
+    },
+    "title": { "en": "Course title", "nl": "Cursustitel" },
+    "code": { "en": "Course code", "nl": "Cursuscode" },
+    "archive": { "en": "Archive course", "nl": "Archiveer cursus" },
+    "delete": { "en": "Delete course", "nl": "Verwijder cursus" },
+    "confirmDeleteTitle": { "en": "Delete course", "nl": "Verwijder cursus" },
+    "confirmDeleteMessage": {
+        "en": "Are you sure you want to delete this course? This will also delete all associated modules and assignments. This action cannot be undone.",
+        "nl": "Weet je zeker dat je deze cursus wilt verwijderen? Hiermee verwijder je ook alle gerelateerde modules en opgaven. Deze actie kan niet ongedaan worden gemaakt."
+    },
+    "confirmArchiveTitle": { "en": "Archive course", "nl": "Archiveer cursus" },
+    "confirmArchiveMessage": {
+        "en": "If you archive this course, the course will be closed immediately and students will no longer be able to do assignments. You can still view the progress of each student. Archiving a course cannot be undone.",
+        "nl": "Als je deze cursus archiveert, dan wordt de cursus per direct gesloten en kunnen de ingeschreven studenten geen opgaven meer maken. Je kunt nog wel steeds de voortgang van je studenten zien. Een cursus archiveren kan niet ongedaan gemaakt worden."
+    },
+
+    "allStaffVisible": {
+        "en": "Visible to all staff",
+        "nl": "Zichtbaar voor alle medewerkers"
+    },
+    "create": { "en": "Create course", "nl": "Maak cursus aan" },
+    "titleCreateCourse": { "en": "Create course", "nl": "Maak cursus aan" },
+    "bodyCreateCourse": {
+        "en": "Enter the title, start and end date and optionally the description of the course you'd like to create.",
+        "nl": "Vul de titel, start- en einddatum  en een optionele omschrijving in van de cursus die je aan wilt maken."
+    },
+
+    "titleDuplicateCourse": {
+        "en": "Duplicate course",
+        "nl": "Dupliceer cursus"
+    },
+    "bodyDuplicateCourse": {
+        "en": "Provide a new start and end date for the course. Optionally, change the course duplicate's title below.",
+        "nl": "Geef een nieuwe start- en einddatum voor de cursus op. Pas de titel van de cursuskopie hieronder aan indien gewenst."
+    },
+
+    "empty": {
+        "en": "No courses were found.",
+        "nl": "Er zijn geen cursussen gevonden."
+    },
+
+    "confirmCourseDuplicated": {
+        "en": "The course has been duplicated.",
+        "nl": "De cursus is gedupliceerd."
+    },
+    "createdNotification": {
+        "en": "The course has been created.",
+        "nl": "De cursus is aangemaakt."
+    },
+    "courseArchivedNotification": {
+        "en": "The course has been archived.",
+        "nl": "De cursus is gearchiveerd."
+    },
+    "courseDeletedNotification": {
+        "en": "The course has been deleted.",
+        "nl": "De cursus is verwijderd."
+    },
+    "completedModulesCount": {
+        "en": "{{completed}}/{{count}} modules completed",
+        "nl": "{{completed}}/{{count}} modules afgerond"
+    },
+    "archivedMessageStaff": {
+        "en": "This course is archived and can no longer be edited. You can still view the students in the course and their progress reports.",
+        "nl": "Deze cursus is gearchiveerd en kan niet meer bewerkt worden. Je kunt nog wel de studenten in de cursus en hun voortgang bekijken."
+    },
+    "archivedMessageStudent": {
+        "en": "This course is archived and you can no longer do assignments. You can still view the modules and assignments and their progress reports.",
+        "nl": "Deze cursus is gearchiveerd en je kunt geen opgaven meer maken. Je kunt nog wel de modules en opgaven en hun voortgang bekijken."
+    },
+    "imageDeleted": {
+        "en": "The course image has been deleted.",
+        "nl": "De cursusafbeelding is verwijderd."
+    },
+
+    "imageTitle": { "en": "Course image", "nl": "Cursusafbeelding" },
+
+    "imageBody": {
+        "en": "Select an image below to represent this course, or upload an image of your choice.",
+        "nl": "Kies hieronder een afbeelding die deze cursus representeert, of upload een afbeelding naar keuze."
+    },
+
+    "imageCustom": { "en": "Custom image", "nl": "Aangepaste afbeelding" },
+    "teamMembers": { "en": "Team members", "nl": "Teamleden" },
+    "titleAddCourseUsers": {
+        "en": "Add team members to this course",
+        "nl": "Voeg teamleden toe aan deze cursus"
+    },
+    "bodyAddCourseUsers": {
+        "en": "Enter the email addresses, separated by a comma, of the members you'd like to enroll and select their role in this course. If a member does not yet have an account, one will be created for them, and the member will receive an invitation email to activate their account.",
+        "nl": "Vul de e-mailadressen in van de teamleden die je in wilt schrijven, gescheiden door een komma en selecteer hun rol in deze cursus. Als een teamlid nog geen account heeft, dan wordt automatisch een account aangemaakt en de teamlid zal een uitnodigingse-mail ontvangen om het account te activeren."
+    },
+    "titleAddCourseStudents": {
+        "en": "Add students to this course",
+        "nl": "Voeg studenten toe aan deze cursus"
+    },
+    "bodyAddCourseStudents": {
+        "en": "Enter the email addresses, separated by a comma, of the students you'd like to enroll. If a student does not yet have an account, one will be created for them, and the student will receive an invitation email to activate their account.",
+        "nl": "Vul de e-mailadressen in van de studenten die je in wilt schrijven, gescheiden door een komma. Als een student nog geen account heeft, dan wordt automatisch een account aangemaakt en de student zal een uitnodigingse-mail ontvangen om het account te activeren."
+    },
+
+    "atLeastOneAdminError": {
+        "en": "Could not perform action since a course should have at least one administrator.",
+        "nl": "Kon actie niet uitvoeren omdat een cursus minstens één beheerder moet hebben."
+    },
+
+    "titleEditCourseUserRole": {
+        "en": "Edit course member role",
+        "nl": "Bewerk lidsrol binnen cursus"
+    },
+    "bodyEditCourseUserRole": {
+        "en": "In order to change the role of this member in this course, select the new role below and click OK.",
+        "nl": "Selecteer de nieuwe rol van dit lid van deze cursus hieronder en klik op OK om door te gaan."
+    },
+
+    "titleConfirmRemoveYourselfAdministrator": {
+        "en": "Remove yourself as administrator",
+        "nl": "Verwijder jezelf als beheerder"
+    },
+    "bodyConfirmRemoveYourselfAdministrator": {
+        "en": "You are about to remove yourself as administrator of this course. You will lose any administrator privileges immediately. Press continue to proceed.",
+        "nl": "Je staat op het punt om jezelf de verwijderen als beheerder van deze cursus. Beheerdersprivileges zullen per direct ingetrokken worden. Klik op doorgaan om te bevestigen."
+    },
+
+    "confirmCourseUserRoleEdited": {
+        "en": "The role of {{user}} has been updated.",
+        "nl": "De rol van {{user}} is aangepast."
+    },
+    "availableOn": {
+        "en": "Available from {{date}}",
+        "nl": "Beschikbaar vanaf {{date}}"
+    },
+    "pastCoursesChip": { "en": "Past courses", "nl": "Eerdere cursussen" },
+    "futureCoursesChip": {
+        "en": "Future courses",
+        "nl": "Toekomstige cursussen"
+    },
+    "completedCoursesChip": {
+        "en": "Completed courses",
+        "nl": "Afgeronde cursussen"
+    },
+    "usersRemovedToast": {
+        "en": "{{count}} member(s) have been removed.",
+        "nl": "{{count}} lid(leden) zijn verwijderd."
+    },
+    "studentsRemovedToast": {
+        "en": "{{count}} student(s) have been removed.",
+        "nl": "{{count}} student(en) zijn verwijderd."
+    },
+    "usersAddedToast": {
+        "en": "Member(s) will be added to this course and will be visible within a few minutes.",
+        "nl": "Lid(leden) worden toegevoegd aan deze cursus en zijn binnen enkele minuten zichtbaar."
+    },
+    "studentsAddedToast": {
+        "en": "Student(s) will be added to this course and will be visible within a few minutes.",
+        "nl": "Student(en) worden toegevoegd aan deze cursus en zijn binnen enkele minuten zichtbaar."
+    },
+    "userNotInOrganizationError": {
+        "en": "You cannot add members that are outside of this organization.",
+        "nl": "Je kunt geen leden toevoegen van buiten deze organizatie."
+    },
+    "onlyNewStudentUsersAllowedError": {
+        "en": "You can only add new students to a course.",
+        "nl": "Je mag alleen nieuwe studentem toevoegen aan deze cursus."
+    },
+    "userAlreadyHasRoleError": {
+        "en": "One or more members you tried to add already have a role in this course.",
+        "nl": "Een of meerdere leden die je probeert toe te voegen hebben al een rol in deze cursus."
+    },
+    "usersCannotBeCourseAdminsError": {
+        "en": "Only organization admins or staff members can be administrator of a course. Please upgrade user to staff, or add to your organization first.",
+        "nl": "Alleen organisatiebeheerders of medewerkers kunnen beheerder van een cursus zijn. Upgrade gebruiker naar medewerker, of voeg eerst toe aan uw organisatie."
+    },
+    "confirmRemoveUsersTitle": {
+        "en": "Remove team members",
+        "nl": "Leden verwijderen"
+    },
+    "confirmRemoveStudentsTitle": {
+        "en": "Remove students",
+        "nl": "Studenten verwijderen"
+    },
+    "confirmRemoveUsersBody_one": {
+        "en": "Please confirm that you want to remove {{name}} from this course.",
+        "nl": "Weet je zeker dat je {{name}} wilt verwijderen van deze cursus?"
+    },
+    "confirmRemoveUsersBody_other": {
+        "en": "Please confirm that you want to remove {{count}} users from this course.",
+        "nl": "Weet je zeker dat je {{count}} leden wilt verwijderen van deze cursus?"
+    },
+    "confirmRemoveStudentsBody_one": {
+        "en": "Please confirm that you want to remove {{name}} from this course. Any assignments made by this student within the course will be permanently deleted.",
+        "nl": "Weet je zeker dat je {{name}} wilt verwijderen van deze cursus?  Alle opgaven gemaakt door deze student binnen deze cursus zullen ook permanent verwijderd worden."
+    },
+    "confirmRemoveStudentsBody_other": {
+        "en": "Please confirm that you want to remove {{count}} students from this course. Any assignments done by these students within the course will be permanently deleted.",
+        "nl": "Weet je zeker dat je {{count}} studenten wilt verwijderen van deze cursus? Alle opgaven gemaakt door deze studenten binnen deze cursus zullen permanent verwijderd worden."
+    },
+
+    "addMember": { "en": "Add member", "nl": "Voeg teamlid toe" },
+    "addStudents": { "en": "Invite students", "nl": "Nodig studenten uit" },
+    "sharing": { "en": "Course sharing", "nl": "Cursus delen" },
+
+    "shareDescription": {
+        "en": "If you want to share your course with others and allow them to make a copy of your course's content, click the share button below to generate a code unique to your course. This code only gives access to the course content, not to any student or assessment data.",
+        "nl": "Als je deze cursus wilt delen met anderen en kopieren van de cursusinhoud toestaat, klik op de knop hieronder om de cursus te delen door middel van een code uniek voor jouw cursus. De gegenereerde code geeft alleen toegang tot de cursusinhoud, niet tot de studentdata of beoordelingen."
+    },
+    "sharedDescription": {
+        "en": "Your course is now available to anyone who you send the code below. If you no longer want to share your course, then click the stop sharing button in the bottom right. The current code will be immediately invalidated and can no longer be used to create a copy of your course's content.",
+        "nl": "Je cursus is nu beschikbaar voor iedereen die in het bezit is van onderstaande code. Als je je cursus niet langer wilt delen, klik dan op de knop rechtsonder. De code is dan per direct ongeldig en kan niet meer gebruikt worden om een kopie te maken van je cursusinhoud."
+    },
+
+    "emailShareCodeSubject": {
+        "en": "Check out my course",
+        "nl": "Dit is mijn cursus"
+    },
+    "emailShareCodeBody": {
+        "en": "I created a course called \"{{title}}\". You can create a copy of the course by clicking here: {{url}}.",
+        "nl": "Ik heb een cursus ontwikkeld met als titel \"{{title}}\". Je kunt een kopie van deze cursus maken door hier te klikken: {{url}}."
+    },
+    "sharedConfirmation": {
+        "en": "A share code has been generated for your course.",
+        "nl": "Een deelcode is gegenereerd voor je cursus."
+    },
+    "stoppedSharingConfirmation": {
+        "en": "The share code has been invalidated and your course content is no longer publicly available.",
+        "nl": "De deelcode is ongeldig gemaakt en je cursusinhoud is niet meer publiek beschikbaar."
+    },
+    "enrollmentCode": { "en": "Enrollment code", "nl": "Inschrijfcode" },
+    "titleEnrollIntoCourse": {
+        "en": "Enroll into course",
+        "nl": "Schrijf in voor cursus"
+    },
+    "bodyEnrollIntoCourse": {
+        "en": "If you have received an enrollment code from your teacher, fill the code in the field below and click continue to enroll.",
+        "nl": "Als je een inschrijfcode hebt ontvangen van je docent, vul deze dan in het veld hieronder in en klik op doorgaan om je in te schrijven."
+    },
+
+    "enrolledIntoCourseNotification": {
+        "en": "You have been successfully enrolled into the course {{course}}.",
+        "nl": "Je bent succesvol ingeschreven voor de cursus {{course}}."
+    },
+    "createEnrollmentCodeTitle": {
+        "en": "Course enrollment code",
+        "nl": "Inschrijfcode voor cursus"
+    },
+    "createEnrollmentCodeDescription": {
+        "en": "If you want to create an enrollment code for your students so they can enroll on their own, click the create button below.",
+        "nl": "Als je een inschrijfcode wilt maken voor je studenten zodat ze zichzelf kunnen inschrijven, klik dan op de knop hieronder."
+    },
+    "createdEnrollmentCodeDescription": {
+        "en": "Your course is now available to anyone who you send the code below. If you no longer want your students to enroll to this course using this code, then click the delete enrollment code button in the bottom right.",
+        "nl": "Je cursus is nu beschikbaar voor iedereen die in het bezit is van onderstaande code. Als je niet langer wilt dat studenten zichzelf kunnen inschrijven voor deze cursus met deze code, klik dan op de knop rechtsonder."
+    },
+    "emailEnrollmentCodeSubject": {
+        "en": "Enroll into my course",
+        "nl": "Schrijf je in voor mijn cursus"
+    },
+    "emailEnrollmentCodeBody": {
+        "en": "I created a course called \"{{title}}\". You can enroll into this course using the code {{enrollmentCode}} or use the following link: {{url}}.",
+        "nl": "Ik heb een cursus ontwikkeld met als titel \"{{title}}\". Je kunt je inschrijven voor deze cursus met de code {{enrollmentCode}} of via de volgende link: {{url}}."
+    },
+    "createdEnrollmentCodeConfirmation": {
+        "en": "An enrollment code has been generated for your course. You can now share this code with your students.",
+        "nl": "Een inschrijfcode is gegenereerd voor je cursus. Je kunt deze code nu delen met je studenten."
+    },
+    "deletedEnrollmentCodeConfirmation": {
+        "en": "The enrollment code has been invalidated and students can't enroll into the course themselves anymore.",
+        "nl": "De inschrijfcode is ongeldig gemaakt en je nieuwe studenten kunnen zich niet meer zelf inschrijven voor de cursus."
+    },
+    "createEnrollmentCodeButtonTitle": {
+        "en": "Create enrollment code",
+        "nl": "Maak inschrijfcode"
+    },
+    "deleteEnrollmentCodeButtonTitle": {
+        "en": "Delete enrollment code",
+        "nl": "Verwijder inschrijfcode"
+    },
+    "importCourseTitle": { "en": "Import course", "nl": "Importeer cursus" },
+    "importCourseBody": {
+        "en": "Click the import course button below to add a copy of the course entitled \"{{title}}\" to your account.",
+        "nl": "Klik op de importeer-cursusknop hieronder om een kopie van de cursus genaamd \"{{title}}\" toe te voegen aan je account. "
+    },
+    "import": { "en": "Import course", "nl": "Importeer cursus" },
+    "enrollIntoCourse": {
+        "en": "Enroll into a course",
+        "nl": "Schrijf je in voor een cursus"
+    },
+    "codeNotFoundTitle": { "en": "Code not found", "nl": "Code niet gevonden" },
+    "codeNotFoundBody": {
+        "en": "We couldn't find a course with the share code \"{{code}}\". Please check that the link is correct.",
+        "nl": "We konden geen cursus vinden met de deelcode \"{{code}}\". Verifieer dat de link klopt."
+    },
+
+    "titleImportCourse": { "en": "Import course", "nl": "Importeer cursus" },
+    "bodyImportCourse": {
+        "en": "Enter the share code below of the course you'd like to import and choose a start and end date. Then click continue.",
+        "nl": "Vul de deelcode in van de cursus die je wilt importeren, kies een start- en einddatum en klik op doorgaan."
+    },
+
+    "importedNotification": {
+        "en": "A copy of the course has been added to your account.",
+        "nl": "Een kopie van de cursus is toegevoegd aan je account."
+    },
+    "noStudentsEnrolled": {
+        "en": "No students",
+        "nl": "Geen studenten"
+    },
+    "studentsEnrolled_one": {
+        "en": "{{count}} student",
+        "nl": "{{count}} student"
+    },
+    "studentsEnrolled_other": {
+        "en": "{{count}} students",
+        "nl": "{{count}} studenten"
+    },
+    "noStartDate": {
+        "en": "No start date",
+        "nl": "Geen startdatum"
+    },
+    "noEndDate": {
+        "en": "No end date",
+        "nl": "Geen einddatum"
+    },
+    "overview": {
+        "en": "Overview",
+        "nl": "Overzicht"
+    },
+    "progress": {
+        "en": "Course progress",
+        "nl": "Cursus voortgang"
+    },
+    "recentActivity": {
+        "en": "Recent activity",
+        "nl": "Recente activiteit"
+    },
+    "noRecentActivityMessage": {
+        "en": "There is no recent activity to display yet.",
+        "nl": "Er is nog geen recente activiteit om weer te geven."
+    },
+    "addTeamMembers": {
+        "en": "Add team member",
+        "nl": "Voeg teamlid toe"
+    },
+    "addAssignment": {
+        "en": "Add assignment",
+        "nl": "Voeg opgave toe"
+    },
+    "startDateDashboardTooltip": {
+        "en": "Click here to update the start date of your course.",
+        "nl": "Klik hier om de startdatum van je cursus bij te werken."
+    },
+    "endDateDashboardTooltip": {
+        "en": "Click here to update the end date of your course.",
+        "nl": "Klik hier om de einddatum van je cursus bij te werken."
+    },
+    "assignmentsDashboardTooltip": {
+        "en": "Click here to go to the content page and add an assignment.",
+        "nl": "Klik hier om naar de inhoudspagina te gaan en je eerste opdracht toe te voegen."
+    },
+    "inviteStudentsDashboardTooltip": {
+        "en": "Click here to invite students to your course.",
+        "nl": "Klik hier om studenten uit te nodigen voor je cursus."
+    },
+    "inviteTeamMembersDashboardTooltip": {
+        "en": "Click here to add team members to your course.",
+        "nl": "Klik hier om teamleden aan je cursus toe te voegen."
+    },
+    "noInvitedStudentsDashboardTooltip": {
+        "en": "You haven't invited any students to this course. Click here to invite them.",
+        "nl": "Je hebt geen studenten uitgenodigd voor deze cursus. Klik hier om ze uit te nodigen."
+    },
+    "noInvitedMembersDashboardTooltip": {
+        "en": "You haven't added any members to collaborate with. Click here to add them.",
+        "nl": "Je hebt geen leden toegevoegd om mee samen te werken. Klik hier om ze toe te voegen."
+    },
+    "noAssignmentsDashboardTooltip": {
+        "en": "You haven't created any assignments. Click here to go to the content page and add your first assignment.",
+        "nl": "Je hebt geen opdrachten aangemaakt. Klik hier om naar de inhoudspagina te gaan en je eerste opdracht toe te voegen."
+    }
+}

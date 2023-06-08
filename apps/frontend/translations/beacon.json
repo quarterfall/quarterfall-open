@@ -1,0 +1,254 @@
+{
+    "suggestedForYou": { "en": "Instant Answers", "nl": "Antwoorden voor jou" },
+    "getInTouch": { "en": "Get in touch", "nl": "Neem contact op" },
+    "searchLabel": {
+        "en": "What can we help you with?",
+        "nl": "Waar kunnen we je mee van dienst zijn?"
+    },
+    "tryAgain": { "en": "Try again", "nl": "Probeer nog eens" },
+    "defaultMessageErrorText": {
+        "en": "There was a problem sending your message. Please try again in a moment.",
+        "nl": "Er is een probleem opgetreden bij het versturen van je bericht. Probeer het later nog eens."
+    },
+    "beaconButtonClose": { "en": "Close", "nl": "Sluit" },
+    "beaconButtonChatMinimize": {
+        "en": "Minimize chat",
+        "nl": "Minimalizeer chat"
+    },
+    "beaconButtonChatOpen": { "en": "Open chat", "nl": "Open chat" },
+    "answer": { "en": "Answers", "nl": "Antwoorden" },
+    "ask": { "en": "Ask", "nl": "Vraag" },
+    "messageButtonLabel": { "en": "Email", "nl": "E-mail" },
+    "noTimeToWaitAround": {
+        "en": "No time to wait around? We usually respond within a few hours",
+        "nl": "Geen tijd om te wachten? Normaalgesproken reageren we binnen een paar uur"
+    },
+    "chatButtonLabel": { "en": "Chat", "nl": "Chat" },
+    "chatButtonDescription": {
+        "en": "We’re online right now, talk with our team in real-time",
+        "nl": "We zijn nu online. Praat nu met ons team in real-time"
+    },
+    "wereHereToHelp": {
+        "en": "Start a conversation",
+        "nl": "Begin een gesprek"
+    },
+    "whatMethodWorks": {
+        "en": "What channel do you prefer?",
+        "nl": "Welk kanaal heeft je voorkeur?"
+    },
+    "previousMessages": {
+        "en": "Previous Conversations",
+        "nl": "Eerdere gesprekken"
+    },
+    "cantFindAnswer": {
+        "en": "Can’t find an answer?",
+        "nl": "Kun je het antwoord niet vinden?"
+    },
+    "relatedArticles": {
+        "en": "Related Articles",
+        "nl": "Gerelateerde artikelen"
+    },
+    "nothingFound": { "en": "Hmm…", "nl": "Hmm…" },
+    "docsSearchEmptyText": {
+        "en": "We couldn’t find any articles that match your search.",
+        "nl": "We hebben geen artikelen gevonden die aan je zoekopdracht voldoen."
+    },
+    "tryBroaderTerm": {
+        "en": "Try searching a broader term, or",
+        "nl": "Probeer met een bredere term te zoeken, of"
+    },
+    "docsArticleErrorText": {
+        "en": "There was a problem retrieving this article. Please double-check your internet connection and try again.",
+        "nl": "Er is een probleem opgetreden bij het ophalen van dit artikel. Verifieer dat je internetverbinding goed werkt en probeer het nog eens."
+    },
+    "docsSearchErrorText": {
+        "en": "There was a problem retrieving articles. Please double-check your internet connection and try again.",
+        "nl": "Er is een probleem opgetreden bij het ophalen van de artikelen. Verifieer dat je internetverbinding goed werkt en probeer het nog eens."
+    },
+    "escalationQuestionFeedback": {
+        "en": "Did this answer your question?",
+        "nl": "Beantwoordde dit je vraag?"
+    },
+    "escalationQuestionFeedbackNo": { "en": "No", "nl": "Nee" },
+    "escalationQuestionFeedbackYes": { "en": "Yes", "nl": "Ja" },
+    "escalationSearchText": {
+        "en": "Browse our help docs for an answer to your question",
+        "nl": "Verken onze documentatie om een antwoord op je vraag te vinden"
+    },
+    "escalationSearchTitle": { "en": "Keep searching", "nl": "Zoek meer" },
+    "escalationTalkText": {
+        "en": "Talk with a friendly member of our support team",
+        "nl": "Praat met een vriendelijke medewerker van ons supportteam"
+    },
+    "escalationTalkTitle": { "en": "Talk to us", "nl": "Praat met ons" },
+    "escalationThanksFeedback": {
+        "en": "Thanks for the feedback",
+        "nl": "Bedankt voor de feedback"
+    },
+    "escalationWhatNext": { "en": "What next?", "nl": "Wat nu?" },
+    "sendAMessage": { "en": "Send a message", "nl": "Stuur een bericht" },
+    "firstAFewQuestions": {
+        "en": "Let’s begin with a few questions",
+        "nl": "Laten we met een paar vragen beginnen"
+    },
+    "howCanWeHelp": {
+        "en": "How can we help?",
+        "nl": "Hoe kunnen we je helpen?"
+    },
+    "responseTime": {
+        "en": "We usually respond in a few hours",
+        "nl": "Meestal reageren we binnen een paar uur"
+    },
+    "history": { "en": "History", "nl": "Geschiedenis" },
+    "uploadAnImage": { "en": "Upload an image", "nl": "Upload een afbeelding" },
+    "attachFile": { "en": "Attach a file", "nl": "Voeg een bijlage toe" },
+    "continueEditing": {
+        "en": "Continue writing...",
+        "nl": "Ga door met schrijven..."
+    },
+    "lastUpdated": { "en": "Last updated", "nl": "Laatst bijgewerkt" },
+    "you": { "en": "You", "nl": "Jij" },
+    "nameLabel": { "en": "Name", "nl": "Naam" },
+    "subjectLabel": { "en": "Subject", "nl": "Onderwerp" },
+    "emailLabel": { "en": "Email address", "nl": "E-mailadres" },
+    "messageLabel": {
+        "en": "How can we help?",
+        "nl": "Hoe kunnen we je helpen?"
+    },
+    "messageSubmitLabel": {
+        "en": "Send a message",
+        "nl": "Verstuur een bericht"
+    },
+    "next": { "en": "Next", "nl": "Volgende" },
+    "weAreOnIt": { "en": "We’re on it!", "nl": "We gaan ermee aan de slag!" },
+    "messageConfirmationText": {
+        "en": "You’ll receive an email reply within a few hours.",
+        "nl": "Je ontvangt een antwoord per e-mail binnen een paar uur."
+    },
+    "viewAndUpdateMessage": {
+        "en": "You can view and update your message in",
+        "nl": "Je kunt je bericht zien en aanpassen in"
+    },
+    "mayNotBeEmpty": { "en": "May not be empty", "nl": "Mag niet leeg zijn" },
+    "customFieldsValidationLabel": {
+        "en": "Please complete all fields",
+        "nl": "Vul alle velden in"
+    },
+    "emailValidationLabel": {
+        "en": "Please use a valid email address",
+        "nl": "Vul een geldig e-mailadres in"
+    },
+    "attachmentErrorText": {
+        "en": "There was a problem uploading your attachment. Please try again in a moment.",
+        "nl": "Er is een probleem opgetreden met het versturen van je bijlage. Probeer het later nog eens."
+    },
+    "attachmentSizeErrorText": {
+        "en": "Attachments may be no larger than 10MB",
+        "nl": "Bijlagen mogen niet groter zijn dan 10MB"
+    },
+    "addReply": { "en": "Add a reply", "nl": "Reageer" },
+    "addYourMessageHere": {
+        "en": "Add your message here...",
+        "nl": "Vul je bericht hier in..."
+    },
+    "sendMessage": { "en": "Send message", "nl": "Verstuur bericht" },
+    "received": { "en": "Received", "nl": "Ontvangen" },
+    "waitingForAnAnswer": {
+        "en": "Waiting for an answer",
+        "nl": "Wacht op antwoord"
+    },
+    "previousMessageErrorText": {
+        "en": "There was a problem retrieving this message. Please double-check your Internet connection and try again.",
+        "nl": "Er is een probleem opgetreden bij het ophalen van dit bericht. Verifieer dat je internetverbinding goed werkt en probeer het nog eens."
+    },
+    "justNow": { "en": "Just now", "nl": "Zojuist" },
+    "chatHeadingTitle": {
+        "en": "Chat with our team",
+        "nl": "Chat met ons team"
+    },
+    "chatHeadingSublabel": {
+        "en": "We’ll be with you soon",
+        "nl": "We komen zo bij je"
+    },
+    "chatEndCalloutHeading": { "en": "All done!", "nl": "Klaar!" },
+    "chatEndCalloutMessage": {
+        "en": "A copy of this conversation will land in your inbox shortly.",
+        "nl": "Je ontvangt straks een verslag van dit gesprek in je inbox."
+    },
+    "chatEndCalloutLink": { "en": "Return home", "nl": "Ga naar de homepage" },
+    "chatEndUnassignedCalloutHeading": {
+        "en": "Sorry about that",
+        "nl": "Onze excuses"
+    },
+    "chatEndUnassignedCalloutMessage": {
+        "en": "It looks like nobody made it to your chat. We’ll send you an email response as soon as possible.",
+        "nl": "Zo te zien heeft niemand op je kunnen reageren. We sturen je zo snel mogelijk een antwoord per e-mail."
+    },
+    "chatEndWaitingCustomerHeading": {
+        "en": "Sorry about that",
+        "nl": "Onze excuses"
+    },
+    "chatEndWaitingCustomerMessage": {
+        "en": "Your question has been added to our email queue and we’ll get back to you shortly.",
+        "nl": "Je vraag is naar ons verstuurd via e-mail en we komen er snel op terug."
+    },
+    "ending": { "en": "Ending…", "nl": "Afsluiten…" },
+    "endChat": { "en": "End chat", "nl": "Chat afsluiten" },
+    "chatEnded": { "en": " ended the chat", "nl": " heeft de chat afgesloten" },
+    "chatConnected": { "en": "Connected to ", "nl": "Verbonden met " },
+    "chatbotName": { "en": "Help Bot", "nl": "Help Bot" },
+    "chatbotGreet": {
+        "en": "Hi there! You can begin by asking your question below. Someone will be with you shortly.",
+        "nl": "Hallo! Begin met het stellen van je vraag hieronder. Er komt snel iemand bij je."
+    },
+    "chatbotPromptEmail": {
+        "en": "Got it. Real quick, what’s your email address? We’ll use it for any follow-up messages.",
+        "nl": "Natuurlijk. Wat je is e-mailadres? Dit gebruiken we voor volgende berichten."
+    },
+    "chatbotConfirmationMessage": {
+        "en": "Thanks! Someone from our team will jump into the chat soon.",
+        "nl": "Bedankt! Iemand van ons team zal zich snel bij deze chat voegen."
+    },
+    "chatbotGenericErrorMessage": {
+        "en": "Something went wrong sending your message, please try again in a few minutes.",
+        "nl": "Er ging iets mis met het versturen van je bericht, probeer het over een paar minuten nog eens."
+    },
+    "chatbotInactivityPrompt": {
+        "en": "Since the chat has gone idle, I’ll end this chat in a few minutes.",
+        "nl": "Aangezien de chat niet meer actief is, zal ik hem binnen een paar minuten afsluiten."
+    },
+    "chatbotInvalidEmailMessage": {
+        "en": "Looks like you’ve entered an invalid email address. Want to try again?",
+        "nl": "Zo te zien heb je een ongeldig e-mailadres ingevuld. Wil je het nog eens proberen?"
+    },
+    "chatbotAgentDisconnectedMessage": {
+        "en": " has disconnected from the chat. It’s possible they lost their internet connection, so I’m looking for someone else to take over. Sorry for the delay!",
+        "nl": " is niet meer verbonden met de chat. Mogelijk was er een probleem met de internetverbinding, dus ik ben op zoek naar iemand om het over te nemen. Mijn excuses voor het vertraging!"
+    },
+    "chatAvailabilityChangeMessage": {
+        "en": "Our team’s availability has changed and there’s no longer anyone available to chat. Send us a message instead and we’ll get back to you.",
+        "nl": "De beschikbaarheid van ons team is gewijzigd en er is daardoor niemand meer beschikbaar om te chatten. Stuur ons een bericht, en we komen er snel op terug."
+    },
+    "emailHeading": {
+        "en": "Today’s chat with ",
+        "nl": "Het gesprek van vandaag met "
+    },
+    "emailGreeting": { "en": "Hey ", "nl": "Hi " },
+    "emailCopyOfDiscussion": {
+        "en": "Here’s a copy of your discussion",
+        "nl": "Hier is een verslag van je gesprek"
+    },
+    "emailContinueConversation": {
+        "en": "If you’ve got any other questions, feel free to hit reply and continue the conversation.",
+        "nl": "Als je nog andere vragen hebt, stuur gerust een antwoord via e-mail om het gesprek voort te zetten."
+    },
+    "emailJoinedLineItem": {
+        "en": " joined the chat",
+        "nl": " is verbonden met de chat"
+    },
+    "emailEndedLineItem": {
+        "en": " ended the chat",
+        "nl": " heeft de chat afgesloten"
+    },
+    "emailYou": { "en": "You", "nl": "Jij" }
+}

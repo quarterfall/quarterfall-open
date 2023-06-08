@@ -1,0 +1,354 @@
+{
+    "name": { "en": "Organization name", "nl": "Naam van de organisatie" },
+    "titleConfirmRemoveYourselfAdministrator": {
+        "en": "Remove yourself as administrator",
+        "nl": "Verwijder jezelf als beheerder"
+    },
+    "bodyConfirmRemoveYourselfAdministrator": {
+        "en": "You are about to remove yourself as administrator of this organization. You will lose any administrator privileges immediately. Press continue to proceed.",
+        "nl": "Je staat op het punt om jezelf de verwijderen als beheerder van deze organisatie. Beheerdersprivileges zullen per direct ingetrokken worden. Klik op doorgaan om te bevestigen."
+    },
+    "license": { "en": "License", "nl": "Licentie" },
+    "licenseUpgradedConfirmationTitle": {
+        "en": "Your license has been upgraded",
+        "nl": "Je licentie is aangepast"
+    },
+    "licenseUpgradedConfirmationBody": {
+        "en": "Thank you for your order. Your Standard license has been activated and is valid for one year. Shortly, you will receive our invoice by mail.",
+        "nl": "Hartelijk dank voor je bestelling. Je Standaardlicentie is geactiveerd en geldig voor één jaar. Je ontvangt de factuur op korte termijn via e-mail."
+    },
+    "billingInformation": {
+        "en": "Billing information",
+        "nl": "Factureringsinformatie"
+    },
+    "billingInformationTitle": {
+        "en": "Billing information",
+        "nl": "Factureringsinformatie"
+    },
+    "billingInformationBody": {
+        "en": "Please enter or update your billing information below.",
+        "nl": "Hieronder kun je de informatie bijwerken die wij gebruiken om facturen te genereren."
+    },
+    "billingName": { "en": "Name", "nl": "Naam" },
+    "billingPhoneNumber": { "en": "Phone number", "nl": "Telefoonnummer" },
+    "billingEmailAddress": { "en": "Email address", "nl": "E-mailadres" },
+    "billingAddressLine1": { "en": "Address line 1", "nl": "Adresregel 1" },
+    "billingAddressLine2": { "en": "Address line 2", "nl": "Adresregel 2" },
+    "billingPostalCode": { "en": "Postal code", "nl": "Postcode" },
+    "billingCity": { "en": "City", "nl": "Woonplaats" },
+    "billingCountryCode": { "en": "Country", "nl": "Land" },
+    "billingVAT": { "en": "VAT number", "nl": "BTW-nummer" },
+    "userStatsTitle": {
+        "en": "Number of active students",
+        "nl": "Aantal actieve studenten"
+    },
+    "daysOption": { "en": "{{count}} days", "nl": "{{count}} dagen" },
+    "upgradeStandardLicenseDialogTitle": {
+        "en": "Upgrade to a Standard license",
+        "nl": "Upgrade naar een Standaardlicentie"
+    },
+    "upgradeStandardLicenseDialogBody": {
+        "en": "Please enter your billing information below. You can provide an e-mail address to which the invoice should be sent. If you leave that field empty, we'll send the invoice to you.",
+        "nl": "Vul de factureringsinformatie hieronder in. Je kunt een e-mailadres opgeven waarnaar we de factuur moeten sturen. Als je dat veld leeglaat, dan sturen we de factuur naar jou."
+    },
+    "licenseEnforceField": {
+        "en": "Enforce license limits",
+        "nl": "Forceer licentielimiet"
+    },
+    "licenseRemarkField": {
+        "en": "License remark",
+        "nl": "Opmerking bij licentie"
+    },
+    "licenseRenewalDateField": {
+        "en": "License renewal date",
+        "nl": "Licentieverlengdatum"
+    },
+    "licenseStudentsField": {
+        "en": "Active student limit",
+        "nl": "Actieve-studentlimiet"
+    },
+    "licenseInformation": {
+        "en": "About your license",
+        "nl": "Over je licentie"
+    },
+    "licenseStudents": {
+        "en": "{{used}} used / {{count}} total student credits *",
+        "nl": "{{used}} gebruikt / {{count}} totaal studentcredits *"
+    },
+    "licenseFeatureUnlimitedCourses": {
+        "en": "Unlimited courses",
+        "nl": "Onbeperkt aantal cursussen"
+    },
+    "licenseFeatureUnlimitedTeachers": {
+        "en": "Unlimited teachers",
+        "nl": "Onbeperkt aantal docenten"
+    },
+    "licenseFeatureFullSupport": {
+        "en": "Phone and e-mail support",
+        "nl": "Support via e-mail en telefoon"
+    },
+    "licenseFeatureTraining": {
+        "en": "Training by our experts",
+        "nl": "Training door onze experts"
+    },
+    "licenseFeatureCustomIntegrations": {
+        "en": "Custom integrations",
+        "nl": "Integraties naar wens"
+    },
+    "licenseStudentsCustom": {
+        "en": "Custom number of students",
+        "nl": "Aangepast aantal studenten"
+    },
+    "studentCreditsExplanation": {
+        "en": "\\* Each license has a number of yearly student credits. If a student is enrolled into a course, one credit is used. For more information, see our [licenses help page](https://help.quarterfall.com/overview/getting-a-license).",
+        "nl": "\\* Elke licentie heeft een aantal studentcredits per jaar. Als een student wordt ingeschreven in een cursus, dan kost dat één credit. Bekijk onze [helppagina over licenties](https://help.quarterfall.com/overview/getting-a-license) voor meer informatie."
+    },
+    "changeCancelLicenseContact": {
+        "en": "If you'd like to change anything regarding your current license, please contact us by e-mail.",
+        "nl": "Als je iets aan wilt passen met betrekking tot je huidige licentie, neem contact met ons op per e-mail."
+    },
+    "upgradePaidLicenseBody": {
+        "en": "Do you want to unleash the full power of smart learning to your organization? Upgrade to a paid license now.",
+        "nl": "Wil je onze slimme leeromgeving op grotere schaal gebruiken? Upgrade nu naar een betaalde licentie."
+    },
+    "perStudentPerYear": { "en": "/student/year", "nl": "/student/jaar" },
+    "quantity": { "en": "Quantity", "nl": "Aantal" },
+    "unitPrice": { "en": "Unit price", "nl": "Prijs per stuk" },
+    "sum": { "en": "Sum", "nl": "Som" },
+    "total": { "en": "Total (excluding VAT)", "nl": "Totaal (exclusief BTW)" },
+    "licenseCostOverview": {
+        "en": "Cost overview",
+        "nl": "Overzicht van de kosten"
+    },
+    "standardLicenseRowDescription": {
+        "en": "Standard license for {{count}} students, 1 year",
+        "nl": "Standaardlicentie voor {{count}} studenten, 1 jaar"
+    },
+    "stepOtherInformation": {
+        "en": "Other information",
+        "nl": "Overige informatie"
+    },
+    "licenseOtherInformation": {
+        "en": "Optionally, write a comment below that will be sent along with your order.",
+        "nl": "Voeg hieronder optioneel commentaar toe dat mee zal worden gestuurd met je bestelling."
+    },
+    "upgradeNow": { "en": "Upgrade now", "nl": "Upgrade nu" },
+    "titleAddUsers": {
+        "en": "Add users to this organization",
+        "nl": "Voeg gebruikers toe aan deze organisatie"
+    },
+    "bodyAddUsers": {
+        "en": "Enter the email addresses, separated by a comma, of the users you'd like to enroll and select their role in this organization. If a user does not yet have an account, one will be created for them, and the user will receive an invitation email to activate their account.",
+        "nl": "Vul de e-mailadressen in van de gebruikers die je in wilt schrijven, gescheiden door een komma en selecteer hun rol in deze organisatie. Als een gebruiker nog geen account heeft, dan wordt automatisch een account aangemaakt en de gebruiker zal een uitnodigingse-mail ontvangen om het account te activeren."
+    },
+    "titleEditUser": { "en": "Edit user", "nl": "Bewerk gebruiker" },
+    "bodyEditUser": {
+        "en": "Edit the user information below and click ok to update the user.",
+        "nl": "Bewerk de gebruikersinformatie hieronder en klik op ok om door te gaan."
+    },
+    "aboutCardTitle": {
+        "en": "About this organization",
+        "nl": "Over deze organisatie"
+    },
+    "website": { "en": "Website", "nl": "Website" },
+    "branding": { "en": "Branding", "nl": "Branding" },
+    "logoTitle": { "en": "Logo", "nl": "Logo" },
+    "logoBody": {
+        "en": "You can upload your own organization's logo, which will then be displayed in the app bar. For an optimal mobile experience, you can also upload a mobile version of the logo. For the regular logo, we recommend a size of 320 x 80 pixels. For the mobile logo, 200 x 200 pixels is recommended.",
+        "nl": "Hieronder kun je het logo uploaden van je organisatie, die dan getoond zal worden in de header. Voor een optimale mobiele ervaring kun je ook een mobiele versie van het logo uploaden. Voor het reguliere logo raden we een grootte van 320 x 80 pixels aan, en voor het mobiele logo 200 x 200 pixels."
+    },
+    "colorsTitle": { "en": "Colors", "nl": "Kleuren" },
+    "colorsBody": {
+        "en": "Below you can select the main colors that the application uses. Next to the color of the app bar, you can choose the primary and secondary colors used in the interface. The primary color is mainly used for clickable items such as buttons or switches. The secondary color is used for accents, such as colored icons.",
+        "nl": "Selecteer de hoofdkleuren die de applicatie gebruikt. Naast de kleur van de header kun je ook de primaire en secundaire kleur van de interface aanpassen. De primaire kleur wordt vooral gebruikt voor klikbare elementen zoals knoppen en switches. De secundaire kleur wordt gebruikt voor accenten zoals gekleurde iconen."
+    },
+    "logo": { "en": "Logo (desktop)", "nl": "Logo (desktop)" },
+    "logoMobile": { "en": "Logo (mobile)", "nl": "Logo (mobiel)" },
+    "appBarColor": { "en": "App bar color", "nl": "Kleur van de header" },
+    "primaryColor": { "en": "Primary color", "nl": "Primaire kleur" },
+    "secondaryColor": { "en": "Secondary color", "nl": "Secundaire kleur" },
+    "licenseCardTitle": { "en": "License", "nl": "Licentie" },
+    "confirmUsersRemoved": {
+        "en": "{{count}} user(s) have been removed from the organization.",
+        "nl": "{{count}} gebruiker(s) zijn verwijderd uit de organisatie."
+    },
+    "atLeastOneAdminError": {
+        "en": "Could not perform action since an organization should have at least one administrator.",
+        "nl": "Kon actie niet uitvoeren omdat een organisatie minstens één beheerder moet hebben."
+    },
+    "confirmUsersAdded": {
+        "en": "User(s) have been successfully added to the organization.",
+        "nl": "Gebruiker(s) zijn succesvol toegevoegd aan de organisatie."
+    },
+    "addUsers": { "en": "Add users", "nl": "Voeg gebruikers toe" },
+    "confirmRemoveUsersTitle": {
+        "en": "Remove organization users",
+        "nl": "Gebruikers verwijderen"
+    },
+    "confirmRemoveUsersBody": {
+        "en": "Please confirm that you want to remove {{name}} from this organization. All data related to {{name}} will be permanently deleted.",
+        "nl": "Weet je zeker dat je {{name}} wilt verwijderen uit deze organisatie? Alle data gerelateerd aan {{name}} zal permanent verwijderd worden."
+    },
+    "licenseRenewalDate": {
+        "en": "Expires on {{date}}",
+        "nl": "Verloopt op {{date}}"
+    },
+    "excludingVAT": { "en": "excluding VAT", "nl": "exclusief BTW" },
+    "licenseEnforceRenewalDateField": {
+        "en": "Enforce renewal date",
+        "nl": "Forceer verloopdatum"
+    },
+    "licenseTotalStudentCreditsField": {
+        "en": "Total student credits",
+        "nl": "Totaal studentkrediet"
+    },
+    "licenseUsedStudentCreditsField": {
+        "en": "Used student credits",
+        "nl": "Gebruikt studentkrediet"
+    },
+    "feature_webHooks": {
+        "en": "Webhooks",
+        "nl": "Webhooks"
+    },
+    "feature_branding": {
+        "en": "Branding",
+        "nl": "Branding"
+    },
+    "feature_editableAnalytics": {
+        "en": "Editable analytics",
+        "nl": "Bewerkbare analyticsblokken"
+    },
+    "feature_lms": {
+        "en": "LMS",
+        "nl": "LMS"
+    },
+    "licenseExpiredTitle": {
+        "en": "License expired",
+        "nl": "Licentie verlopen"
+    },
+    "licenseExpiredMessage": {
+        "en": "Your trial or paid license has expired and your account has been reverted to the free license. Please contact us via the button below to upgrade to a paid license.",
+        "nl": "Je licentie (trial of betaald) is verlopen en je account is teruggezet naar een gratis licentie. Neem contact met ons op via onderstaande knop om te upgraden naar een betaalde licentie."
+    },
+    "editGradingScheme": {
+        "en": "Edit grading scheme",
+        "nl": "Bewerk beoordelingsschema"
+    },
+    "gradingSchemeTitle": {
+        "en": "Grading scheme",
+        "nl": "Beoordelingsschema"
+    },
+    "gradingSchemeName": {
+        "en": "Name",
+        "nl": "Naam"
+    },
+    "gradingSchemeDescription": {
+        "en": "Description",
+        "nl": "Omschrijving"
+    },
+    "gradingSchemeDefault": {
+        "en": "This grading scheme is default for the entire organization",
+        "nl": "Dit beoordelingsschema is standaard voor de hele organisatie"
+    },
+    "gradingSchemeCode": {
+        "en": "Code",
+        "nl": "Code"
+    },
+    "gradingSchemeText": {
+        "en": "On this page, you can create grading schemes that will be available to use in assignments that require grading.",
+        "nl": "Op deze pagina kun je beoordelingsschema's aanmaken die gebruikt kunnen worden in opgaven die beoordeeld worden."
+    },
+    "testGradingScheme": {
+        "en": "Test grading scheme",
+        "nl": "Test-beoordelingsschema"
+    },
+
+    "createGradingSchemeTitle": {
+        "en": "Create grading scheme",
+        "nl": "Maak beoordelingsschema"
+    },
+    "admins": {
+        "en": "Administrators",
+        "nl": "Beheerders"
+    },
+    "confirmDeleteTitle": {
+        "en": "Delete organization",
+        "nl": "Verwijder organisatie"
+    },
+    "confirmDeleteMessage": {
+        "en": "If you delete this organization, then all related information including users and courses will be IRREVERSIBLY deleted. Type DOIT in the field below and click continue.",
+        "nl": "Als je deze organisatie verwijdert, zal alle gerelateeerde informatie inclusief gebruikers en cursussen ONHERROEPELIJK worden verwijdered. Type DOIT in onderstaand veld en klik op doorgaan."
+    },
+    "deletedConfirmation": {
+        "en": "The organization {{name}} has been deleted.",
+        "nl": "De organizatie {{name}} is verwijderd."
+    },
+    "showArchived": {
+        "en": "Show archived organizations",
+        "nl": "Laat gearchiveerde organisaties zien"
+    },
+    "deletedSchemeConfirmation": {
+        "en": "Grading scheme {{name}} has been deleted.",
+        "nl": "Beoordelingsschema {{name}} is verwijderd."
+    },
+    "confirmDeleteSchemeTitle": {
+        "en": "Delete grading scheme",
+        "nl": "Verwijder beoordelingsschema"
+    },
+    "confirmDeleteSchemeMessage": {
+        "en": "Are you sure you want to delete this grading scheme?",
+        "nl": "Weet je zeker dat je dit beoordelingsschema wilt verwijderen?"
+    },
+    "makeDefault": {
+        "en": "Make default",
+        "nl": "Maak standaard"
+    },
+    "subdomain": {
+        "en": "Subdomain",
+        "nl": "Subdomein"
+    },
+    "create": {
+        "en": "Create organization",
+        "nl": "Maak organisatie"
+    },
+    "createDialogTitle": {
+        "en": "Create organization",
+        "nl": "Maak organisatie"
+    },
+    "createDialogBody": {
+        "en": "Fill in the name of the organization and supply the administrator email address.",
+        "nl": "Vul de naam van de organisatie in en geef het e-mailadres op van de beheerder."
+    },
+    "adminEmail": {
+        "en": "Administrator email address",
+        "nl": "E-mailadres beheerder"
+    },
+    "createComplete": {
+        "en": "A new organization has been created.",
+        "nl": "Een nieuwe organisatie is aangemaakt."
+    },
+    "resetAllSchemesToDefault": {
+        "en": "Reset all grading schemes to default",
+        "nl": "Alle beoordelingsschema's terugzetten naar standaard"
+    },
+    "confirmResetGradingSchemesTitle": {
+        "en": "Reset to default grading schemes",
+        "nl": "Terugzetten naar standaard-beoordelingsschema's"
+    },
+    "confirmResetGradingSchemesMessage": {
+        "en": "Are you sure you want to reset your organization's grading schemes to the system defaults? This will delete all your existing grading schemes.",
+        "nl": "Weet je zeker dat je de beoordelingsschema's van je organisatie terug wilt zetten naar de systeeminstelling? Alle bestaande beoordelingsschema's zullen verwijderd worden."
+    },
+    "allowAnonymousSubmissions": {
+        "en": "Allow anonymous submissions",
+        "nl": "Anonieme inzendingen toestaan"
+    },
+    "ssoProvider": {
+        "en": "Single Sign-On Provider",
+        "nl": "Single Sign-On Provider"
+    },
+    "emailDomainNames": {
+        "en": "Email domain names",
+        "nl": "Email-domeinnamen"
+    }
+}

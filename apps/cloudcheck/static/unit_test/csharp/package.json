@@ -1,0 +1,8 @@
+{
+    "name": "unittest-csharp",
+    "version": "0.0.1",
+    "scripts": {
+        "build": "node build.js",
+        "test": "dotnet run --nologo"
+    }
+}

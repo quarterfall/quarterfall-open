@@ -1,0 +1,6 @@
+{
+    "notrans_nl": { "en": "Nederlands", "nl": "Nederlands" },
+    "notrans_en": { "en": "English", "nl": "English" },
+    "nl": { "en": "Dutch", "nl": "Nederlands" },
+    "en": { "en": "English", "nl": "Engels" }
+}

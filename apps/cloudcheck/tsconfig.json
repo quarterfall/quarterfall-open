@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "target": "es5",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "esModuleInterop": true,
+        "lib": ["dom", "es6", "es2016", "esnext.asynciterable"],
+        "outDir": "dist",
+        "baseUrl": "src"
+    }
+}

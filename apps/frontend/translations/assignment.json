@@ -1,0 +1,1158 @@
+{
+    "add": { "en": "Add assignment", "nl": "Voeg opgave toe" },
+    "insert": { "en": "Insert assignment", "nl": "Voeg opgave in" },
+    "view": { "en": "View assignment", "nl": "Bekijk opgave" },
+    "about": { "en": "About this assignment", "nl": "Over deze opgave" },
+    "editor": { "en": "Editor", "nl": "Editor" },
+    "tooltipDifficulty_1": {
+        "en": "Difficulty: very easy",
+        "nl": "Niveau: heel makkelijk"
+    },
+    "tooltipDifficulty_2": {
+        "en": "Difficulty: easy",
+        "nl": "Niveau: makkelijk"
+    },
+    "tooltipDifficulty_3": {
+        "en": "Difficulty: average",
+        "nl": "Niveau: gemiddeld"
+    },
+    "tooltipDifficulty_4": {
+        "en": "Difficulty: hard",
+        "nl": "Niveau: moeilijk"
+    },
+    "tooltipDifficulty_5": {
+        "en": "Difficulty: very hard",
+        "nl": "Niveau: heel moeilijk"
+    },
+    "difficultyLegend": { "en": "Difficulty", "nl": "Moeilijkheidsgraad" },
+    "difficultyRating_1": { "en": "Very easy", "nl": "Heel makkelijk" },
+    "difficultyRating_2": { "en": "Easy", "nl": "Makkelijk" },
+    "difficultyRating_3": { "en": "Average", "nl": "Gemiddeld" },
+    "difficultyRating_4": { "en": "Hard", "nl": "Moeilijk" },
+    "difficultyRating_5": { "en": "Very hard", "nl": "Heel moeilijk" },
+    "usefulnessRating_1": {
+        "en": "Not useful at all",
+        "nl": "Helemaal niet nuttig"
+    },
+    "usefulnessRating_2": { "en": "Not that useful", "nl": "Niet zo nuttig" },
+    "usefulnessRating_3": { "en": "Average", "nl": "Gemiddeld" },
+    "usefulnessRating_4": { "en": "Quite useful", "nl": "Vrij nuttig" },
+    "usefulnessRating_5": { "en": "Very useful", "nl": "Heel erg nuttig" },
+    "titleAddAssignment": { "en": "Add assignment", "nl": "Voeg opgave toe" },
+    "bodyAddAssignment": {
+        "en": "Fill in the assignment title. You can also indicate whether this assignment should be graded",
+        "nl": "Vul de titel van de opgave in. Je kunt ook aangeven of dit een opgave is die beoordeeld moet worden."
+    },
+    "oneBodyAddAssignment": {
+        "en": "Enter the title of the assignment you'd like to add.",
+        "nl": "Vul de titel in van de assignment die je toe wilt voegen."
+    },
+    "confirmMergeTitle": {
+        "en": "Merge with previous assignment",
+        "nl": "Combineer met vorige opgave"
+    },
+    "confirmMergeMessage": {
+        "en": "Are you sure you want to merge this assignment with the previous assignment? This will copy all content to the previous assignment. This assignment will then be deleted, including all associated student answers and assessments. This action cannot be undone.",
+        "nl": "Weet je zeker dat je deze opgave wilt combineren met de vorige opgave? Alle inhoud van deze opgave wordt dan gekopieerd naar de vorige opgave. Deze opgave wordt vervolgens verwijderd, inclusief alle gerelateerde antwoorden van studenten en beoordelingen. Deze actie kan niet ongedaan worden gemaakt."
+    },
+    "titleCopyAssignment": { "en": "Copy assignment", "nl": "Kopieer opgave" },
+    "bodyCopyAssignment": {
+        "en": "Select the course and the module that you'd like to copy this assignment to.",
+        "nl": "Selecteer de cursus en de module waarnaar je deze opgave wilt kopiëren."
+    },
+    "mergedConfirmation": {
+        "en": "The assignment has been merged with the previous assignment.",
+        "nl": "De opgave is gecombineerd met de vorige opgave."
+    },
+    "copiedConfirmation": {
+        "en": "The assignment has been copied.",
+        "nl": "De opgave is gekopieerd."
+    },
+    "deletedConfirmation": {
+        "en": "The assignment has been deleted.",
+        "nl": "De opgave is verwijderd."
+    },
+    "duplicatedConfirmation": {
+        "en": "The assignment has been duplicated.",
+        "nl": "De opgave is gedupliceerd."
+    },
+    "duplicatedUnitTestConfirmation": {
+        "en": "The unit test has been duplicated.",
+        "nl": "De unittest is gedupliceerd."
+    },
+    "duplicatedIOTestConfirmation": {
+        "en": "The IO test has been duplicated.",
+        "nl": "De IO-test is gedupliceerd."
+    },
+    "duplicatedActionConfirmation": {
+        "en": "The action has been duplicated.",
+        "nl": "De actie is gedupliceerd."
+    },
+    "confirmDeleteTitle": {
+        "en": "Delete assignment",
+        "nl": "Verwijder opgave"
+    },
+    "confirmDeleteMessage": {
+        "en": "Are you sure you want to delete this assignment? This will also delete all associated student answers and assessments. This action cannot be undone.",
+        "nl": "Weet je zeker dat je deze opgave wilt verwijderen? Hiermee verwijder je ook alle gerelateerde antwoorden van studenten en beoordelingen. Deze actie kan niet ongedaan worden gemaakt."
+    },
+    "deleteIntroductionTitle": {
+        "en": "Delete introduction",
+        "nl": "Verwijder introductie"
+    },
+    "deleteIntroductionBody": {
+        "en": "Are you sure you want to delete the introduction of this assignment?",
+        "nl": "Weet je zeker dat je de introductie van deze opgave wilt verwijderen?"
+    },
+
+    "duplicatingAssignmentMessage": {
+        "en": "Duplicating assignment…",
+        "nl": "Opgave dupliceren…"
+    },
+    "duplicatingUnitTestMessage": {
+        "en": "Duplicating unit test…",
+        "nl": "Unit test dupliceren…"
+    },
+    "duplicatingActionMessage": {
+        "en": "Duplicating action…",
+        "nl": "Actie dupliceren…"
+    },
+    "blockType_codeQuestion": {
+        "en": "Code question",
+        "nl": "Programmeervraag"
+    },
+    "blockType_openQuestion": { "en": "Open question", "nl": "Open vraag" },
+    "blockType_multipleChoiceQuestion": {
+        "en": "Multiple choice question",
+        "nl": "Meerkeuzevraag"
+    },
+    "blockType_text": { "en": "Study material", "nl": "Studiemateriaal" },
+    "blockType_databaseQuestion": {
+        "en": "Database question",
+        "nl": "Databasevraag"
+    },
+    "blockType_fileUploadQuestion": {
+        "en": "File upload question",
+        "nl": "Bestand upload vraag"
+    },
+    "addBlockType_codeQuestion": {
+        "en": "Add code question",
+        "nl": "Voeg programmeervraag toe"
+    },
+    "addBlockType_openQuestion": {
+        "en": "Add open question",
+        "nl": "Voeg open vraag toe"
+    },
+    "addBlockType_multipleChoiceQuestion": {
+        "en": "Add multiple choice question",
+        "nl": "Voeg meerkeuzevraag toe"
+    },
+    "addBlockType_text": {
+        "en": "Add study material",
+        "nl": "Voeg studiemateriaal toe"
+    },
+    "addBlockType_databaseQuestion": {
+        "en": "Add database question",
+        "nl": "Voeg databasevraag toe"
+    },
+    "addBlockType_fileUploadQuestion": {
+        "en": "Add file upload question",
+        "nl": "Voeg bestand upload vraag toe"
+    },
+    "questionTemplate": { "en": "Template", "nl": "Template" },
+    "editor_text": { "en": "Text", "nl": "Text" },
+    "editor_number": { "en": "Number", "nl": "Getal" },
+    "chooseEditor": {
+        "en": "Choose answer field type",
+        "nl": "Kies type antwoordveld"
+    },
+    "block": { "en": "Block", "nl": "Blok" },
+    "blockGeneratesFeedback": {
+        "en": "This block provides feedback to the student. Click the edit feedback button below to change the feedback that this block generates.",
+        "nl": "Dit blok geeft feedback aan de student. Klik op de bewerk feedback knop hieronder om de feedback die dit blok genereert aan te passen."
+    },
+    "addBlock": { "en": "Add block", "nl": "Voeg blok toe" },
+    "questionNoActions": {
+        "en": "No feedback actions have been added yet to this question. Click one of the buttons below to add a feedback action.",
+        "nl": "Er zijn nog geen feedbackacties toegevoegd aan deze vraag. Klik op een van de knoppen hieronder om een feedbackactie toe te voegen."
+    },
+    "addAction": { "en": "Add action", "nl": "Voeg actie toe" },
+    "actionType_feedback": { "en": "Simple action", "nl": "Simpele actie" },
+    "actionType_scoring": { "en": "Scoring action", "nl": "Score actie" },
+    "actionType_database": { "en": "Database", "nl": "Database" },
+    "actionType_code": { "en": "Code", "nl": "Code" },
+    "actionType_webhook": { "en": "Webhook", "nl": "Webhook" },
+    "actionType_cloudCheck": { "en": "Cloud Check", "nl": "Cloudcheck" },
+    "actionType_unitTest": { "en": "Unit test", "nl": "Unittest" },
+    "actionType_ioTest": { "en": "IO test", "nl": "IO-test" },
+    "addActionType_feedback": {
+        "en": "Add simple action",
+        "nl": "Voeg simpele actie toe"
+    },
+    "addActionType_code": {
+        "en": "Add code action",
+        "nl": "Voeg codeactie toe"
+    },
+    "addActionType_database": {
+        "en": "Add database action",
+        "nl": "Voeg databaseactie toe"
+    },
+    "addActionType_unitTest": {
+        "en": "Add unit test action",
+        "nl": "Voeg unittestactie toe"
+    },
+    "addActionType_ioTest": {
+        "en": "Add IO test action",
+        "nl": "Voeg IO-testactie toe"
+    },
+    "addActionType_webhook": {
+        "en": "Add webhook action",
+        "nl": "Voeg webhookactie toe"
+    },
+    "addActionType_cloudCheck": {
+        "en": "Add cloud check action",
+        "nl": "Voeg cloud-checkactie toe"
+    },
+    "questionAssessmentSettings": {
+        "en": "Question assessment settings",
+        "nl": "Vraagbeoordelingsinstellingen"
+    },
+    "assessmentTypeField": {
+        "en": "Assessment type:",
+        "nl": "Beoordelingstype:"
+    },
+    "assessmentMethodField": {
+        "en": "Assessment method",
+        "nl": "Beoordelingsmethode"
+    },
+    "assessmentMethod_automatic": { "en": "Automatic", "nl": "Automatisch" },
+    "assessmentMethod_manual": { "en": "Manual", "nl": "Handmatig" },
+    "assessmentMethod_correctAnswer": {
+        "en": "Correct answer",
+        "nl": "Juiste antwoord"
+    },
+    "assessmentMethod_perAnswer": { "en": "Per answer", "nl": "Per antwoord" },
+    "assessmentMethod_scoreMapping": {
+        "en": "Score mapping",
+        "nl": "Score-mapping"
+    },
+    "assessmentType_student": {
+        "en": "Student self-assessment",
+        "nl": "Student-zelfbeoordeling"
+    },
+    "assessmentType_teacher": {
+        "en": "Teacher assessment",
+        "nl": "Docentbeoordeling"
+    },
+    "assessmentType_noAssessment": { "en": "No assessment" },
+    "weight": { "en": "Weight", "nl": "Gewicht" },
+    "granularity": { "en": "Granularity", "nl": "Granulariteit" },
+    "limitRange": {
+        "en": "Limit range to 0-100",
+        "nl": "Beperk bereik tussen 0-100"
+    },
+    "score": { "en": "Score", "nl": "Score" },
+    "correctScore": {
+        "en": "Correct answer score",
+        "nl": "Score correct antwoord"
+    },
+    "missingScore": {
+        "en": "Missing answer score",
+        "nl": "Score ontbrekend antwoord"
+    },
+    "wrongScore": {
+        "en": "Wrong answer score",
+        "nl": "Score verkeerd antwoord"
+    },
+    "testQuestion": {
+        "en": "Test this question",
+        "nl": "Test deze vraag"
+    },
+    "moduleInvisibleMessage": {
+        "en": "This assignment is currently not visible to your students because it belongs to a module that is not visible. In order to make this assignment visible, edit the settings of the module it belongs to.",
+        "nl": "Deze opgave is momenteel niet zichtbaar voor je studenten omdat het onderdeel is van een module die niet zichtbaar is. Bewerk de instellingen van de module om deze opgave zichtbaar te maken."
+    },
+    "invisibleMessage": {
+        "en": "This assignment is currently not visible to your students. In order to make this assignment visible, edit the assignment settings.",
+        "nl": "Deze opgave is momenteel niet zichtbaar voor je studenten. Bewerk de opgave-instellingen om deze opgave zichtbaar te maken."
+    },
+    "titleEditAssignmentFile": { "en": "Edit file", "nl": "Bewerk bestand" },
+    "bodyEditAssignmentFile": {
+        "en": "Edit the file label below.",
+        "nl": "Bewerk het bestandslabel hieronder."
+    },
+    "fileLabel": { "en": "File label", "nl": "Filelabel" },
+    "forceBlockOrder": {
+        "en": "Force order of questions when doing assignment",
+        "nl": "Forceer vraagvolgorde als de opgave gemaakt wordt"
+    },
+    "questionText": { "en": "Question text", "nl": "Vraagtekst" },
+    "questionTextAndStudentAnswer": {
+        "en": "Question text and the answer of the student",
+        "nl": "Vraagtekst en het antwoord van de student "
+    },
+    "multipleChoiceLabelTeacher": {
+        "en": "Multiple answers allowed",
+        "nl": "Meerdere antwoorden mogelijk"
+    },
+    "singleChoiceLabelTeacher": {
+        "en": "Single answers",
+        "nl": "Eén antwoord"
+    },
+    "multipleCorrectLabel": {
+        "en": "Allow multiple answers",
+        "nl": "Meerdere antwoorden mogelijk"
+    },
+    "addChoice": { "en": "Add choice", "nl": "Voeg keuze toe" },
+    "textBlock": { "en": "Text", "nl": "Tekst" },
+    "choiceLabel": { "en": "Choice label", "nl": "Keuzelabel" },
+    "choice": { "en": "Choice", "nl": "Keuze" },
+    "multipleChoiceLabelStudent": {
+        "en": "Select the right answers",
+        "nl": "Selecteer de juiste antwoorden"
+    },
+    "singleChoiceLabelStudent": {
+        "en": "Select a single answer",
+        "nl": "Selecteer één antwoord"
+    },
+    "confirmDeleteChoiceTitle": {
+        "en": "Delete choice",
+        "nl": "Verwijder keuze"
+    },
+    "confirmDeleteChoiceMessage": {
+        "en": "Are you sure you want to delete this choice? This action cannot be undone.",
+        "nl": "Weet je zeker dat je deze keuze wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt."
+    },
+    "titleInsertQuestion": { "en": "Insert question", "nl": "Voeg vraag in" },
+    "bodyInsertQuestion": {
+        "en": "Select the type of question you'd like to insert.",
+        "nl": "Kies hieronder het type vraag dat je in wilt voegen."
+    },
+    "questionTypeLabel": { "en": "Question type", "nl": "Vraagtype" },
+    "titleInsertAction": { "en": "Insert action", "nl": "Voeg actie in" },
+    "bodyInsertAction": {
+        "en": "Select the type of action you'd like to insert.",
+        "nl": "Kies hieronder het type actie dat je in wilt voegen."
+    },
+    "actionTypeLabel": { "en": "Action type", "nl": "Actietype" },
+    "testResultTitle": {
+        "en": "Test result:",
+        "nl": "Resultaat van de test:"
+    },
+    "queryResultTitle": {
+        "en": "Query result:",
+        "nl": "Queryresultaat:"
+    },
+    "testResultSuccess": { "en": "successful", "nl": "geslaagd" },
+    "testResultFail": { "en": "failed", "nl": "gefaald" },
+    "testInternalErrorMessage": {
+        "en": "There was an error while running the tests.",
+        "nl": "Er is een fout opgetreden tijdens het uitvoeren van de tests."
+    },
+    "testTimeoutErrorMessage": {
+        "en": "Timed out running the tests.",
+        "nl": "Time-out bij het uitvoeren van de tests."
+    },
+    "checkAnswer": { "en": "Check answer", "nl": "Controleer antwoord" },
+    "confirmDeleteActionTitle": {
+        "en": "Delete action",
+        "nl": "Verwijder actie"
+    },
+    "confirmDeleteActionMessage": {
+        "en": "Are you sure you want to delete this action? This cannot be undone.",
+        "nl": "Weet je zeker dat je deze actie wilt verwijderen? Dit kan niet ongedaan worden gemaakt."
+    },
+    "editFeedback": { "en": "Edit feedback", "nl": "Bewerk feedback" },
+    "insertQuestion": { "en": "Insert question", "nl": "Voeg vraag in" },
+    "confirmDeleteQuestionTitle": {
+        "en": "Delete question",
+        "nl": "Verwijder vraag"
+    },
+    "confirmDeleteQuestionMessage": {
+        "en": "Are you sure you want to delete this question? This cannot be undone.",
+        "nl": "Weet je zeker dat je deze vraag wilt verwijderen? Dit kan niet ongedaan worden gemaakt."
+    },
+    "unitTestAddedNotification": {
+        "en": "Unit test '{{testName}}' has been added.",
+        "nl": "Unittest '{{testName}}' is toegevoegd."
+    },
+    "unitTestInsertedNotification": {
+        "en": "Unit test '{{testName}}' has been inserted.",
+        "nl": "Unittest '{{testName}}' is ingevoegd."
+    },
+    "unitTestDeletedNotification": {
+        "en": "Unit test '{{testName}}' has been deleted.",
+        "nl": "Unittest '{{testName}}' is verwijderd."
+    },
+    "unitTestUpdatedNotification": {
+        "en": "Unit test '{{testName}}' has been updated.",
+        "nl": "Unittest '{{testName}}' is aangepast."
+    },
+    "unitTestCodeShouldContainReturnValue": {
+        "en": "Test code should contain a return statement",
+        "nl": "Test code moet een return-opdracht bevatten"
+    },
+    "titleAddUnitTest": { "en": "Add unit test", "nl": "Unittest toevoegen" },
+    "titleInsertUnitTest": {
+        "en": "Insert unit test",
+        "nl": "Voeg unittest in"
+    },
+    "titleInsertIOTest": {
+        "en": "Insert IO test",
+        "nl": "Voeg IO-test in"
+    },
+    "duplicateUnitTest": {
+        "en": "Duplicate unit test",
+        "nl": "Voeg unittest in"
+    },
+    "bodyAddUnitTest": {
+        "en": "Fill in the fields below and click continue to add the unit test.",
+        "nl": "Vul onderstaande velden in en klik op doorgaan om de unittest toe te voegen."
+    },
+    "bodyInsertUnitTest": {
+        "en": "Fill in the fields below and click continue to insert the unit test.",
+        "nl": "Vul onderstaande velden in en klik op doorgaan om de unittest in te voegen."
+    },
+    "unitTestName": { "en": "Test name", "nl": "Testnaam" },
+    "unitTestDescription": {
+        "en": "Test description",
+        "nl": "Testomschrijving"
+    },
+    "unitTestIsCodeBlock": {
+        "en": "Test is a code block",
+        "nl": "Test is een codeblok"
+    },
+    "unitTestCode": { "en": "Test code", "nl": "Testcode" },
+    "unitTestExpression": { "en": "Test expression", "nl": "Testexpressie" },
+    "ioTestAddedNotification": {
+        "en": "IO test '{{testName}}' has been added.",
+        "nl": "IO-test '{{testName}}' is toegevoegd."
+    },
+    "ioTestInsertedNotification": {
+        "en": "IO test '{{testName}}' has been inserted.",
+        "nl": "IO-test '{{testName}}' is ingevoegd."
+    },
+    "ioTestDeletedNotification": {
+        "en": "IO test '{{testName}}' has been deleted.",
+        "nl": "IO-test '{{testName}}' is verwijderd."
+    },
+    "ioTestUpdatedNotification": {
+        "en": "IO test '{{testName}}' has been updated.",
+        "nl": "IO-test '{{testName}}' is aangepast."
+    },
+    "ioTestCodeShouldContainReturnValue": {
+        "en": "Test code should contain a return statement",
+        "nl": "Test code moet een return-opdracht bevatten"
+    },
+    "titleAddIOTest": { "en": "Add IO test", "nl": "IO-test toevoegen" },
+    "duplicateIOTest": {
+        "en": "Duplicate IO test",
+        "nl": "Voeg IO-test in"
+    },
+    "bodyAddIOTest": {
+        "en": "Fill in the fields below and click continue to add the IO test.",
+        "nl": "Vul onderstaande velden in en klik op doorgaan om de IO-test toe te voegen."
+    },
+    "bodyInsertIOTest": {
+        "en": "Fill in the fields below and click continue to insert the IO test.",
+        "nl": "Vul onderstaande velden in en klik op doorgaan om de IO-test in te voegen."
+    },
+    "ioTestName": { "en": "Test name", "nl": "Testnaam" },
+    "ioTestDescription": {
+        "en": "Test description",
+        "nl": "Testomschrijving"
+    },
+    "ioTestInput": { "en": "Input", "nl": "Input" },
+    "ioTestOutput": { "en": "Output", "nl": "Output" },
+    "ioTestCode": { "en": "Comparison code", "nl": "Vergelijkingscode" },
+    "ioTestExpression": { "en": "Test expression", "nl": "Testexpressie" },
+    "gitBranch": { "en": "Git branch", "nl": "Git branch" },
+    "gitPath": { "en": "Path", "nl": "Pad" },
+    "gitUrl": { "en": "Git url", "nl": "Git url" },
+    "gitPrivateKey": {
+        "en": "Git private SSH key",
+        "nl": "Git privé SSH sleutel"
+    },
+    "gitUrlInvalid": { "en": "Invalid Git url", "nl": "Ongeldige Git url" },
+    "actionCode": { "en": "Code", "nl": "Code" },
+    "condition": { "en": "Condition", "nl": "Conditie" },
+    "actionText": { "en": "Text", "nl": "Tekst" },
+    "actionTextOnMatch": { "en": "Text on match", "nl": "Tekst bij match" },
+    "actionTextOnMismatch": {
+        "en": "Text on mismatch",
+        "nl": "Tekst bij mismatch"
+    },
+    "stopOnMatch": { "en": "Stop if match", "nl": "Stop bij match" },
+    "teacherOnly": {
+        "en": "Feedback is visible only to the teacher",
+        "nl": "Feedback is alleen zichtbaar voor de docent"
+    },
+    "hideFeedback": {
+        "en": "Hide feedback",
+        "nl": "Verberg feedback"
+    },
+    "unitTestImports": {
+        "en": "Extra import statements",
+        "nl": "Extra importverklaringen"
+    },
+    "answerEmbedding": {
+        "en": "Answer embedding",
+        "nl": "Antwoordomsluiting"
+    },
+    "addIOTest": { "en": "Add IO test", "nl": "IO-test toevoegen" },
+    "addUnitTest": { "en": "Add unit test", "nl": "Unittest toevoegen" },
+    "confirmDeleteUnitTestTitle": {
+        "en": "Delete unit test",
+        "nl": "Unittest verwijderen"
+    },
+    "confirmDeleteUnitTestMessage": {
+        "en": "Are you sure you want to delete unit test '{{testName}}'?",
+        "nl": "Weet je zeker dat je de unittest '{{testName}}' wilt verwijderen?"
+    },
+    "titleEditUnitTest": { "en": "Edit unit test", "nl": "Bewerk unittest" },
+    "bodyEditUnitTest": {
+        "en": "Edit the fields below and click continue to update the unit test.",
+        "nl": "Bewerk onderstaande velden en klik op doorgaan om de unittest aan te passen."
+    },
+    "confirmDeleteIOTestTitle": {
+        "en": "Delete IO test",
+        "nl": "IO-test verwijderen"
+    },
+    "confirmDeleteIOTestMessage": {
+        "en": "Are you sure you want to delete IO test '{{testName}}'?",
+        "nl": "Weet je zeker dat je de IO-test '{{testName}}' wilt verwijderen?"
+    },
+    "titleEditIOTest": { "en": "Edit IO test", "nl": "Bewerk IO-test" },
+    "bodyEditIOTest": {
+        "en": "Edit the fields below and click continue to update the IO test.",
+        "nl": "Bewerk onderstaande velden en klik op doorgaan om de IO-test aan te passen."
+    },
+    "optionalStudyMaterial": {
+        "en": "Optional study material",
+        "nl": "Optioneel studiemateriaal"
+    },
+    "mandatoryStudyMaterial": {
+        "en": "Mandatory study material",
+        "nl": "Verplicht studiemateriaal"
+    },
+    "mandatoryStudyMaterialStats": {
+        "en": "Mandatory study material ({{completed}}/{{count}} read)",
+        "nl": "Verplicht studiemateriaal ({{completed}}/{{count}} gelezen)"
+    },
+    "optionalAssignment": {
+        "en": "Optional assignment",
+        "nl": "Optionele opgave"
+    },
+    "mandatoryAssignment": {
+        "en": "Mandatory assignment",
+        "nl": "Verplichte opgave"
+    },
+    "readMaterial": { "en": "Read", "nl": "Lees" },
+    "doAssignment": { "en": "Do assignment", "nl": "Maak opgave" },
+    "doAssignments": { "en": "Do assignments", "nl": "Maak opgaven" },
+    "commentByTeacherAlert": {
+        "en": "The teacher has entered a rating or a comment to your submission.",
+        "nl": "De docent heeft een beoordeling of opmerking geplaatst bij je inzending."
+    },
+    "mandatoryAssignmentStats": {
+        "en": "Mandatory assignments ({{completed}}/{{count}} completed)",
+        "nl": "Verplichte opgaven ({{completed}}/{{count}} afgerond)"
+    },
+    "optionalStudyMaterialStats": {
+        "en": "Optional study material ({{completed}}/{{count}} read)",
+        "nl": "Optioneel studiemateriaal ({{completed}}/{{count}} gelezen)"
+    },
+    "optionalAssignmentStats": {
+        "en": "Optional assignments ({{completed}}/{{count}} completed)",
+        "nl": "Optionele opgaven ({{completed}}/{{count}} afgerond)"
+    },
+    "mandatoryAssignments": {
+        "en": "Mandatory assignments",
+        "nl": "Verplichte opgaven"
+    },
+    "optionalStudyMaterials": {
+        "en": "Optional study material",
+        "nl": "Optioneel studiemateriaal"
+    },
+    "optionalAssignments": {
+        "en": "Optional assignments",
+        "nl": "Optionele opgaven"
+    },
+    "deadline": {
+        "en": "Submit before {{date}}",
+        "nl": "Uiterlijk indienen op {{date}}"
+    },
+    "deadlineTooltip": {
+        "en": "After this date, you can no longer submit this assignment.",
+        "nl": "Na deze datum kun je deze opgave niet meer indienen."
+    },
+    "progress": {
+        "en": "{{count}}/{{total}} questions completed",
+        "nl": "{{count}}/{{total}} vragen afgerond"
+    },
+    "progressTooltip": {
+        "en": "Assignment progress",
+        "nl": "Voortgang van deze opgave"
+    },
+    "moduleClosed": {
+        "en": "You can no longer do this assignment, since its module was closed on {{date}}.",
+        "nl": "Je kunt deze opgave niet meer maken, want de module was gesloten op {{date}}."
+    },
+    "courseArchivedMessage": {
+        "en": "This course has been archived. You can no longer do this assignment.",
+        "nl": "Deze cursus is gearchiveerd. Je kunt deze opgave niet meer maken."
+    },
+    "showQuestionTextChip": { "en": "Question text", "nl": "Vraagtekst" },
+    "showFeedbackChip": { "en": "Feedback", "nl": "Feedback" },
+    "showSolutionChip": { "en": "Solution", "nl": "Oplossing" },
+    "showSolutionButton": { "en": "Show solution", "nl": "Toon oplossing" },
+    "studyMaterialSubmitted": {
+        "en": "Study material \"{{title}}\" has been marked as read.",
+        "nl": "Studiemateriaal \"{{title}}\" is gemarkeerd als gelezen."
+    },
+    "submitted": {
+        "en": "The assignment \"{{title}}\" has been successfully submitted.",
+        "nl": "De opgave \"{{title}}\" is succesvol ingediend."
+    },
+    "studentReview": { "en": "Your review", "nl": "Jouw oordeel" },
+    "reviewAndSubmit": {
+        "en": "Review and submit",
+        "nl": "Beoordeel en lever in"
+    },
+    "studentCompleteBlocksWarning": {
+        "en": "Please finish all questions of this assignment before handing it in.",
+        "nl": "Om deze opgave in te leveren moet je eerst alle vragen afronden."
+    },
+    "studentReviewAssignmentWarning": {
+        "en": "Please provide your review of this assignment before handing it in.",
+        "nl": "Om deze opgave in te leveren moet je eerst deze opgave beoordelen."
+    },
+    "studentRatingDifficultyLegend": {
+        "en": "How difficult did you find this assignment?",
+        "nl": "Hoe moeilijk vond je deze opgave?"
+    },
+    "studentRatingUsefulnessLegend": {
+        "en": "How useful did you find this assignment?",
+        "nl": "Hoe nuttig vond je deze opgave?"
+    },
+    "studentCommentLegend": {
+        "en": "Other comments for the teacher",
+        "nl": "Andere feedback voor de docent"
+    },
+    "submit": { "en": "Submit assignment", "nl": "Opgave indienen" },
+    "resultCodeError": {
+        "en": "An error occurred while generating the feedback (code {{code}}).",
+        "nl": "Er is een fout opgetreden tijdens het genereren van de feedback (code {{code}})."
+    },
+    "resultCodeSuccess": {
+        "en": "The feedback was successfully generated (code 0).",
+        "nl": "De feedback is succesvol gegenereerd (code 0)."
+    },
+    "resultNoFeedback": {
+        "en": "No feedback is available for this answer.",
+        "nl": "Er is geen feedback beschikbaar voor dit antwoord."
+    },
+    "solutionPlaceholder": {
+        "en": "The solution to this question is indicated above.",
+        "nl": "Het antwoord op deze vraag wordt hierboven weergegeven."
+    },
+    "noTitle": { "en": "Untitled assignment", "nl": "Naamloze opgave" },
+    "completeBlockAndShowSolution": {
+        "en": "Complete and show solution",
+        "nl": "Rond af en toon oplossing"
+    },
+    "completeBlockAndAssess": {
+        "en": "Complete and assess",
+        "nl": "Rond af en beoordeel"
+    },
+    "completeBlockAndGoToNext": {
+        "en": "Complete and go to next",
+        "nl": "Rond af en ga naar volgende"
+    },
+    "answerInput": { "en": "Your answer", "nl": "Jouw antwoord" },
+    "answerOfStudent": {
+        "en": "Answer of the student",
+        "nl": "Het antwoord van de student"
+    },
+    "noAnswerGiven": { "en": "No answer.", "nl": "Geen antwoord." },
+    "logDialogTitle": { "en": "Feedback log", "nl": "Feedback log" },
+    "feedbackActions": { "en": "Feedback actions", "nl": "Feedbackacties" },
+    "editFilesTitle": {
+        "en": "Assignment files",
+        "nl": "Bestanden bij opgave"
+    },
+    "editGeneralSettingsTitle": {
+        "en": "General assignment settings",
+        "nl": "Algemene opgave-instellingen"
+    },
+    "optionalMaterialChip": {
+        "en": "Optional material",
+        "nl": "Optioneel materiaal"
+    },
+    "completedMaterialChip": {
+        "en": "Completed material",
+        "nl": "Afgerond materiaal"
+    },
+    "doNext": { "en": "Do next assignment", "nl": "Maak volgende opgave" },
+    "doNextInModule": {
+        "en": "Do next assignment in module",
+        "nl": "Maak volgende opgave in de module"
+    },
+    "studentAnswers": {
+        "en": "Student answers",
+        "nl": "Antwoorden van de student"
+    },
+    "studentAnswer": {
+        "en": "Student answer",
+        "nl": "Antwoord van de student"
+    },
+    "difficulty": {
+        "en": "Difficulty",
+        "nl": "Moeilijkheidsgraad"
+    },
+    "averageDifficulty": {
+        "en": "Average difficulty",
+        "nl": "Gemiddelde moeilijkheidsgraad"
+    },
+    "usefulness": {
+        "en": "Usefulness",
+        "nl": "Nuttigheid"
+    },
+    "avgDifficulty": {
+        "en": "Difficulty",
+        "nl": "Moeilijkheidsgraad"
+    },
+    "avgUsefulness": {
+        "en": "Average usefulness",
+        "nl": "Gemiddelde nuttigheid"
+    },
+    "readOn": { "en": "Read on {{date}}", "nl": "Gelezen op {{date}}" },
+    "completedOn": {
+        "en": "Completed on {{date}}",
+        "nl": "Afgerond op {{date}}"
+    },
+    "resetToTemplate": {
+        "en": "Reset to template",
+        "nl": "Terug naar standaard ingevulde waarde"
+    },
+    "introductionInfoDialog": {
+        "en": "The introduction text will be shown at the top of every assignment block. Put things here that your students need in every question, such as a piece of code or an image that you ask questions about.",
+        "nl": "De introductietekst wordt getoond bovenaan elk blok in de opgave. Vul hier de onderdelen in die je studenten nodig hebben in elke vraag, zoals een stuk programmacode of een afbeelding waar je vragen over stelt."
+    },
+    "keywords": { "en": "Keywords", "nl": "Trefwoorden" },
+    "keywordPlaceHolder": {
+        "en": "Add a keyword and press Enter",
+        "nl": "Voeg een trefwoord toe en druk op Enter"
+    },
+    "downloadLog": { "en": "Download log", "nl": "Log downloaden" },
+    "goToSubmissions": { "en": "View submissions", "nl": "Bekijk inzendingen" },
+    "resetAnswers": { "en": "Reset answers", "nl": "Verwijder antwoorden" },
+    "viewAsStudent": { "en": "View as student", "nl": "Bekijk als student" },
+    "completed": { "en": "Completed", "nl": "Afgerond" },
+    "publicAssignmentFinished": {
+        "en": "Congratulations! You completed the assignment.",
+        "nl": "Gefeliciteerd! Je hebt de opgave afgerond."
+    },
+    "redoAssignmentTitle": {
+        "en": "Redo assignment",
+        "nl": "Doe opgave nogmaals"
+    },
+    "confirmRedoAssignmentTitle": {
+        "en": "Redo assignment",
+        "nl": "Doe opgave nogmaals"
+    },
+    "confirmRedoAssignmentMessage": {
+        "en": "Are you sure you want to redo this assignment? This action cannot be undone.",
+        "nl": "Weet je zeker dat je deze opgave opnieuw wilt doen? Deze actie kan niet ongedaan worden gemaakt."
+    },
+    "title": { "en": "Assignment title", "nl": "Opgavetitel" },
+    "editTitle": { "en": "Edit assignment title", "nl": "Pas opgavetitel aan" },
+    "editTitleText": {
+        "en": "Change the assignment title below and click continue to save.",
+        "nl": "Pas de opgavetitel hieronder aan en klik op doorgaan om op te slaan."
+    },
+    "url": {
+        "en": "Assignment url",
+        "nl": "Link naar opgave"
+    },
+    "publicUrl": {
+        "en": "Assignment url",
+        "nl": "Opgavelink"
+    },
+    "copyPublicUrl": {
+        "en": "Copy assignment url",
+        "nl": "Kopieer opgavelink"
+    },
+    "urlCopiedToClipboardConfirmation": {
+        "en": "The assignment url was copied to the clipboard.",
+        "nl": "De opgavelink is gekopieerd naar het klembord."
+    },
+    "goToAnalytics": { "en": "Go to analytics", "nl": "Ga naar analytics" },
+    "introduction": { "en": "Introduction", "nl": "Introductie" },
+    "question": { "en": "Question", "nl": "Vraag" },
+    "editIntroduction": {
+        "en": "Edit introduction",
+        "nl": "Pas introductie aan"
+    },
+    "addIntroduction": {
+        "en": "Add introduction",
+        "nl": "Voeg introductie toe"
+    },
+
+    "editIntroductionBody": {
+        "en": "The introduction is always shown at the top of each assignment question.",
+        "nl": "De introductietekst wordt getoond bovenaan elk onderdeel in de opgave."
+    },
+    "addIntroductionBody": {
+        "en": "Click the button to add an introduction text, which will always be shown at the top of each assignment step.",
+        "nl": "Klik op de knop om een introductietekst toe te voegen. De introductietekst wordt getoond boven elke stap in de opgave."
+    },
+    "metadata": { "en": "About this assignment", "nl": "Over deze opgave" },
+    "editQuestionTitle": {
+        "en": "Edit question title",
+        "nl": "Pas vraagtitel aan"
+    },
+    "editQuestionTitleText": {
+        "en": "Change the question title below and click continue to save.",
+        "nl": "Pas de vraagtitel hieronder aan en klik op doorgaan om op te slaan."
+    },
+    "questionTitle": { "en": "Question title", "nl": "Vraagtitel" },
+    "questions": { "en": "Questions", "nl": "Vragen" },
+    "hasSolution": { "en": "Solution", "nl": "Oplossing" },
+    "hasFeedback": { "en": "Feedback", "nl": "Feedback" },
+    "introductionText": {
+        "en": "The introduction is always shown at the top of each assignment step.",
+        "nl": "De introductietekst wordt getoond bovenaan elk onderdeel in de opgave."
+    },
+    "noIntroductionText": {
+        "en": "No introduction present for this assignment.",
+        "nl": "Geen introductietekst aanwezig voor deze opgave."
+    },
+    "noQuestionsText": {
+        "en": "This assignment doesn't have any questions.",
+        "nl": "Deze opgave heeft geen vragen."
+    },
+    "emailLinkSubject": {
+        "en": "Check out this assignment",
+        "nl": "Doe deze opgave"
+    },
+    "emailLinkBody": {
+        "en": "I created an assignment called \"{{title}}\". You can do the assignment here: {{url}}.",
+        "nl": "Ik heb een opgave ontwikkeld met als titel \"{{title}}\". Je kunt deze opgave maken door hier te klikken: {{url}}."
+    },
+    "sendLinkByEmail": {
+        "en": "Send public url by email",
+        "nl": "Verstuur publieke link per e-mail"
+    },
+    "clearRating": { "en": "Clear rating", "nl": "Verwijder rating" },
+    "questionGeneratesSolution": { "en": "Solution", "nl": "Oplossing" },
+    "questionDoesNotGenerateSolution": {
+        "en": "No solution",
+        "nl": "Geen oplossing"
+    },
+    "questionGeneratesFeedback": { "en": "Feedback", "nl": "Feedback" },
+    "questionDoesNotGenerateFeedback": {
+        "en": "No feedback",
+        "nl": "Geen feedback"
+    },
+    "selectPublicLicenseType": {
+        "en": "Select license",
+        "nl": "Selecteer licentie"
+    },
+    "publicLicenseType_none": { "en": "None", "nl": "Geen" },
+    "publicLicenseType_mit": { "en": "MIT License", "nl": "MIT License" },
+    "publicLicenseType_ccby": {
+        "en": "Creative Commons BY",
+        "nl": "Creative Commons BY"
+    },
+    "sharedConfirmation": {
+        "en": "A share code has been generated for your assignment.",
+        "nl": "Een deelcode is gegenereerd voor je opgave."
+    },
+    "stoppedSharingConfirmation": {
+        "en": "The share code has been invalidated and your assignment is no longer publicly available.",
+        "nl": "De deelcode is ongeldig gemaakt en je opgave is niet meer publiek beschikbaar."
+    },
+    "shareDescription": {
+        "en": "If you want to share your assignment with others and allow them to make a copy, click the share button below to generate a code unique to this assignment. This code only gives access to the assignment content, not to any student or assessment data.",
+        "nl": "Als je deze opgave wilt delen met anderen en kopieren van de opgave toestaat, klik op de knop hieronder om de opgave te delen door middel van een code uniek voor deze opgave. De gegenereerde code geeft alleen toegang tot de opgave-inhoud, niet tot studentdata of beoordelingen."
+    },
+    "sharedDescription": {
+        "en": "Your assignment is now available to anyone who you send the code below. If you no longer want to share this assignment, then click the stop sharing button in the bottom right. The current code will be immediately invalidated and can no longer be used to create a copy of your assignment's content.",
+        "nl": "Je opgave is nu beschikbaar voor iedereen die in het bezit is van onderstaande code. Als je je opgave niet langer wilt delen, klik dan op de knop rechtsonder. De code is dan per direct ongeldig en kan niet meer gebruikt worden om een kopie te maken van je opgave-inhoud."
+    },
+    "publishedConfirmation": {
+        "en": "Your assignment is published.",
+        "nl": "Je opgave is gepubliceerd."
+    },
+    "unpublishedConfirmation": {
+        "en": "The URL has been invalidated and your assignment is no longer available for your students.",
+        "nl": "De URL is ongeldig gemaakt en je opgave is niet meer beschikbaar voor je studenten."
+    },
+    "publishDescription": {
+        "en": "If you want to publish your assignment and allow students to make the assignment, click the publish button below to generate a URL unique to this assignment.",
+        "nl": "Als je deze opgave wilt publiceren en de studenten de opdracht wilt laten maken, klik op de knop hieronder om een URL te genereren die uniek is voor deze opdracht."
+    },
+    "publishedDescription": {
+        "en": "Your assignment is available to your students who you send the URL below.",
+        "nl": "Je opgave is beschikbaar voor je studenten die in het bezit zijn van de onderstaande URL."
+    },
+    "sharing": { "en": "Assignment sharing", "nl": "Opgave delen" },
+    "importAssignment": {
+        "en": "Import assignment",
+        "nl": "Importeer opgave"
+    },
+    "titleImportAssignment": {
+        "en": "Import assignment",
+        "nl": "Importeer opgave"
+    },
+    "bodyImportAssignment": {
+        "en": "Enter the share code below of the assignment you'd like to import. Then click continue.",
+        "nl": "Vul de deelcode in van de opgave die je wilt importeren en klik op doorgaan."
+    },
+    "databaseDialect": {
+        "en": "Database dialect",
+        "nl": "Databasedialect"
+    },
+    "databaseDialect_mysql": {
+        "en": "MySQL",
+        "nl": "MySQL"
+    },
+    "databaseDialect_postgresql": {
+        "en": "PostgreSQL",
+        "nl": "PostgreSQL"
+    },
+    "databaseFileLabel": {
+        "en": "Initialization SQL file",
+        "nl": "Initialisatie SQL-bestand"
+    },
+    "studentAssessmentTitle": {
+        "en": "Student assessment",
+        "nl": "Studentbeoordeling"
+    },
+    "studentAssessmentText": {
+        "en": "Using the slider below, indicate how well you think you've done. Note that your teacher still needs to approve your assessment.",
+        "nl": "Gebruik onderstaande slider om aan te geven hoe goed je vindt dat je de vraag hebt beantwoord. Je docent zal daarna je eigen beoordeling nog goedkeuren."
+    },
+    "testAssessment": {
+        "en": "Test assessment",
+        "nl": "Test beoordeling"
+    },
+    "showTest": {
+        "en": "Show test assessment",
+        "nl": "Toon testbeoordeling"
+    },
+    "hideTest": {
+        "en": "Hide test assessment",
+        "nl": "Verberg testbeoordeling"
+    },
+    "assessment": {
+        "en": "Assessment",
+        "nl": "Assessment"
+    },
+    "submitAssessment": {
+        "en": "Submit assessment",
+        "nl": "Dien beoordeling in"
+    },
+    "toggleHasGradingTitle": {
+        "en": "This assignment requires grading",
+        "nl": "Deze opgave wordt beoordeeld"
+    },
+    "hasGrading": {
+        "en": "Has grading",
+        "nl": "Wordt beoordeeld"
+    },
+    "isStudyMaterial": {
+        "en": "Study material",
+        "nl": "Studiemateriaal"
+    },
+    "isMandatory": {
+        "en": "Mandatory",
+        "nl": "Verplicht"
+    },
+    "isOptional": { "en": "Optional", "nl": "Optioneel" },
+    "enableGradingTitle": {
+        "en": "Enable grading",
+        "nl": "Stel beoordelen in"
+    },
+    "enableGradingText": {
+        "en": "Click here to enable grading for this assignment.",
+        "nl": "Klik hier om beoordeling voor deze opgave in te stellen."
+    },
+    "gradingSchemeTitle": {
+        "en": "Grading scheme",
+        "nl": "Beoordelingsschema"
+    },
+    "changeGradingScheme": {
+        "en": "Change grading scheme",
+        "nl": "Verander beoordelingsschema"
+    },
+    "editGradingScheme": {
+        "en": "Edit grading scheme",
+        "nl": "Bewerk beoordelingsschema"
+    },
+    "changeAndRecalculateGrades": {
+        "en": "Change and recalculate grades",
+        "nl": "Verander en herbereken cijfers"
+    },
+    "recalculateGrades": {
+        "en": "Recalculate grades",
+        "nl": "Herbereken cijfers"
+    },
+    "confirmRecalculateGradesTitle": {
+        "en": "Recalculate grades",
+        "nl": "Herbereken cijfers"
+    },
+    "confirmRecalculateGradesMessage": {
+        "en": "Click continue to recalculate the grades of all the submissions of this assignment. Please note that this action can not be reversed.",
+        "nl": "Klik op doorgaan om de cijfers van alle inzending van deze opgave opnieuw te berekenen. Let op: deze actie kan niet ongedaan worden gemaakt."
+    },
+    "scoreExpression": {
+        "en": "Score expression",
+        "nl": "Score-uitdrukking"
+    },
+    "assessmentMethod": {
+        "en": "Assessment method",
+        "nl": "Beoordelingsmethode"
+    },
+    "assessmentType": {
+        "en": "Assessment type",
+        "nl": "Beoordelingstype"
+    },
+    "closedFormSettings": {
+        "en": "Multiple choice assessment",
+        "nl": "Meerkeuzevraag beoordeling"
+    },
+
+    "originalScore": {
+        "en": "Original score",
+        "nl": "Originele score"
+    },
+    "testAnswer": {
+        "en": "Test answer",
+        "nl": "Test antwoord"
+    },
+    "studentFeedback": {
+        "en": "Review by the student",
+        "nl": "Beoordeling door de student"
+    },
+    "teacherFeedback": {
+        "en": "Feedback by the teacher",
+        "nl": "Feedback van de docent"
+    },
+    "gradingSettings": {
+        "en": "Grading settings",
+        "nl": "Nakijkinstellingen"
+    },
+    "criteriaText": {
+        "en": "Description of the criteria used for assessment",
+        "nl": "Beschrijving van de criteria gebruikt voor het beoordelen"
+    },
+    "optionalMotivation": {
+        "en": "Optional motivation",
+        "nl": "Optioneel motivatie"
+    },
+    "correctAnswerInfo": {
+        "en": "The answer the student provides is either correct or wrong. Correct means all the correct answers are picked and none of the wrong answers are. If the student hasn't provided an answer, this is considered a wrong answer.",
+        "nl": "Het antwoord dat de student opgeeft is ofwel correct of fout. Correct betekent dat alle correcte antwoorden geselecteerd zijn en geen van de foute antwoorden. Als de student geen antwoord heeft opgegeven, is dit een fout antwoord."
+    },
+    "perAnswerInfo": {
+        "en": "This option only looks at the answers that a student selected. Some (or all) of those selected answers are correct, and some (or all) of them are incorrect. There is a score that a student gets for each correctly selected answer, and there is a score for each wrongly selected answer. So there are only two settings for this scoring method: Correct answer score, and wrong answer score. Remember, the total score will default be kept in the 0-100 range unless that setting is switched off.",
+        "nl": "Deze optie kijkt alleen naar de antwoorden die een student geselecteerd heeft. Sommige (of alle) van de geselecteerde antwoorden zijn correct, en sommige (of alle) van deze antwoorden zijn fout. Er is een score die een student krijgt voor elk correct geselecteerd antwoord, en er is een score voor elk fout geselecteerd antwoord. Dus er zijn slechts twee instellingen voor deze beoordelingsmethode: Correct antwoord score, en fout antwoord score. Vergeet niet dat de totale score binnen het 0-100 bereik zal blijven, tenzij die instelling uitgeschakeld wordt."
+    },
+    "scoreMappingInfo": {
+        "en": "With this assessment method you specify for each possible choice the score the student gets if they selected that choice and the score for not selecting that choice. This means that this scoring method doesn't look at which answer is correct but simply applies the score for each answer depending on whether it's selected.",
+        "nl": "Met deze beoordelingsmethode definieer je voor elke mogelijke keuze de score die de student krijgt als die keuze geselecteerd is en de score als die keuze niet geselecteerd is. Dit betekent dat deze beoordelingsmethode niet kijkt naar welk antwoord correct is, maar slechts de score toepast voor elk antwoord, afhankelijk van of die geselecteerd is."
+    },
+    "hasSubmissionsWarning": {
+        "en": "You cannot turn grading on or off since this assignment has submissions. In order to turn grading off, first delete any submissions for this assignment.",
+        "nl": "Je kunt beoordeling niet aan- of uitzetten aangezien deze opgave inzendingen heeft. Als je beoordelen uit wilt zetten, verwijder dan eerst alle inzendingen voor deze opgave."
+    },
+    "hasScoringActionsWarningTitle": {
+        "en": "Disable grading",
+        "nl": "Stel beoordelen in"
+    },
+    "hasScoringActionsWarningMessage": {
+        "en": "You are about to disable grading for this assignment. Some of the questions in this assignment have scoring actions. These will be deleted forever. Are you sure?",
+        "nl": "Je staat op het punt om beoordelen voor deze opgave uit te zetten. Sommige van de vragen in deze opgave hebben score-acties. Deze zullen verwijderd worden. Weet je het zeker?"
+    },
+    "selectedScore": {
+        "en": "Score if selected",
+        "nl": "Score indien geselecteerd"
+    },
+    "notSelectedScore": {
+        "en": "Score if not selected",
+        "nl": "Score indien niet geselecteerd"
+    },
+    "name": {
+        "en": "Name",
+        "nl": "Naam"
+    },
+    "allowedFileExtensions": {
+        "en": "Accepted file types",
+        "nl": "Geaccepteerde bestandstypen"
+    },
+    "updateGradingSchemeTitle": {
+        "en": "Update grading scheme",
+        "nl": "Beoordelingsschema bijwerken"
+    },
+    "studentComment": {
+        "en": "Comment by the student",
+        "nl": "Opmerking van de student"
+    },
+    "titlePublish": {
+        "en": "Publish assignment",
+        "nl": "Publiceer opgave"
+    },
+    "dragAndDropFiles": {
+        "en": "Drag and drop files or click here",
+        "nl": "Sleep bestanden en zet ze neer of klik hier"
+    },
+    "downloadFileMessage": {
+        "en": "Click the button below to download the file.",
+        "nl": "Klik op de knop hieronder om het bestand te downloaden."
+    },
+    "teacherTestViewAlert": {
+        "en": "You are viewing this assignment as a student.",
+        "nl": "Je bekijkt deze opgave als student."
+    },
+    "noPreviewViewAsStudent": {
+        "en": "File upload questions cannot be tested here. Instead, click the View as Student button, and test the question there.",
+        "nl": "Bestand oplaad vragen kunnen hier niet worden getest. Klik de Bekijk als student knop en test de vraag daar."
+    },
+    "shareLinkWithStudents": {
+        "en": "Your students can do this assignment via this url:",
+        "nl": "Je studenten kunnen deze opgave maken via deze url:"
+    },
+    "courseArchivedNoIntroduction": {
+        "en": "This course is archived and this assignment has no introduction.",
+        "nl": "Deze cursus is gearchiveerd en deze opgave heeft geen introductie."
+    },
+    "courseArchivedNoSolution": {
+        "en": "This course is archived and this question has no solution.",
+        "nl": "Deze cursus is gearchiveerd en deze vraag heeft geen oplossing."
+    },
+    "courseArchivedNoFeedback": {
+        "en": "This course is archived and this question has no feedback actions.",
+        "nl": "Deze cursus is gearchiveerd en deze vraag heeft geen feedbackacties."
+    },
+    "finishedGradingText": {
+        "en": "You're all done, nothing to grade!",
+        "nl": "Je bent klaar, er valt niets meer te beoordelen!"
+    },
+    "cloudcheckCacheInfo": {
+        "en": "As the scripts in your cloudcheck repository are run for the first time, a cache of the repository and dependencies will be created. The cache will be updated every 24 hours. If you want to clear the cache everytime you run the action, toggle the switch below.",
+        "nl": "Wanneer de scripts in uw cloudcheck-repository voor het eerst worden uitgevoerd, wordt er een cache van de repository en afhankelijkheden gemaakt. De cache wordt elke 24 uur bijgewerkt. Als u de cache elke keer dat u de actie uitvoert wilt wissen, schakelt u de schakelaar hieronder in."
+    },
+    "overrideCloudcheckCache": {
+        "en": "Clear cache on each run",
+        "nl": "Wis de cache bij elke run"
+    },
+    "endDate": { "en": "End date", "nl": "Einddatum" },
+    "startDate": { "en": "Start date", "nl": "Begindatum" },
+    "summary": { "en": "Summary", "nl": "Overzicht" },
+    "explainCodeTitle": {
+        "en": "Explain this code snippet",
+        "nl": "Leg dit codefragment uit"
+    }
+}

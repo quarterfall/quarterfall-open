@@ -1,0 +1,62 @@
+{
+    "empty": {
+        "en": "You have no notifications.",
+        "nl": "Er zijn geen meldingen."
+    },
+    "commentRatingReceived": {
+        "en": "{{teacher}} gave feedback on your submission of assignment \"{{assignment}}\".",
+        "nl": "{{teacher}} heeft feedback gegeven op jouw inzending van opgave \"{{assignment}}\"."
+    },
+    "stickerReceived": {
+        "en": "{{teacher}} gave you a sticker for your submission of assignment \"{{assignment}}\".",
+        "nl": "{{teacher}} heeft je een sticker gegeven voor jouw inzending van opgave \"{{assignment}}\"."
+    },
+    "submissionReopened": {
+        "en": "{{teacher}} has reopened your submission of assignment \"{{assignment}}\".",
+        "nl": "{{teacher}} heeft jouw inzending van opgave \"{{assignment}}\" heropend."
+    },
+    "submissionDeleted": {
+        "en": "{{teacher}} has deleted your submission of assignment \"{{assignment}}\".",
+        "nl": "{{teacher}} heeft jouw inzending van opgave \"{{assignment}}\" verwijderd."
+    },
+    "submissionApproved": {
+        "en": "You have obtained grade \"{{grade}}\" for your submission of \"{{assignment}}\".",
+        "nl": "Je hebt het cijfer \"{{grade}}\" ontvangen voor je inzending van \"{{assignment}}\"."
+    },
+    "addedToCourse": {
+        "en": "{{teacher}} added you to the course \"{{course}}\".",
+        "nl": "{{teacher}} heeft je toegevoegd aan de cursus \"{{course}}\"."
+    },
+    "deletedToast_one": {
+        "en": "One notification has been deleted.",
+        "nl": "Eén melding is verwijderd."
+    },
+    "deletedToast_other": {
+        "en": "{{count}} notifications have been deleted.",
+        "nl": "{{count}} meldingen zijn verwijderd."
+    },
+    "deletedAllToast": {
+        "en": "All notifications have been deleted.",
+        "nl": "Alle meldingen zijn verwijderd."
+    },
+    "deleteAll": {
+        "en": "Delete all notifications",
+        "nl": "Verwijder alle meldingen"
+    },
+    "confirmDeleteTitle": {
+        "en": "Delete notifications",
+        "nl": "Meldingen verwijderen"
+    },
+    "confirmDeleteBody": {
+        "en": "Are you sure you want to delete {{count}} notification(s)?",
+        "nl": "Weet je zeker dat je {{count}} melding(en) wilt verwijderen?"
+    },
+    "confirmDeleteAllTitle": {
+        "en": "Delete all notifications",
+        "nl": "Alle meldingen verwijderen"
+    },
+    "confirmDeleteAllBody": {
+        "en": "Are you sure you want to delete all notifications?",
+        "nl": "Weet je zeker dat je alle meldingen wilt verwijderen?"
+    }
+}

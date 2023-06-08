@@ -1,0 +1,220 @@
+{
+    "submittedDate": { "en": "Submitted on", "nl": "Ingediend op" },
+    "sticker": { "en": "Sticker", "nl": "Sticker" },
+    "stickerTooltip": { "en": "Give a sticker", "nl": "Geef een sticker" },
+    "stickerTooltipDelete": {
+        "en": "Delete sticker",
+        "nl": "Verwijder sticker"
+    },
+    "view": { "en": "View submission", "nl": "Bekijk inzending" },
+    "deletedNotification": {
+        "en": "The submission has been successfully deleted.",
+        "nl": "De inzending is succesvol verwijderd."
+    },
+    "confirmDeleteSubmissionTitle": {
+        "en": "Delete this submission",
+        "nl": "Verwijder deze inzending"
+    },
+    "confirmDeleteSubmissionMessage": {
+        "en": "Are you sure you want to delete this submission? The answers given by the student will be deleted, and the student has to completely redo this assignment in case it is mandatory.",
+        "nl": "Weet je zeker dat je deze inzending wilt verwijderen? De antwoorden gegeven door de student zullen worden verwijderd en de student moet deze opgave daarna opnieuw maken indien deze verplicht is."
+    },
+    "commentLabel": { "en": "Enter your comment", "nl": "Vul commentaar in" },
+    "reopenedNotification": {
+        "en": "The submission has been reopened.",
+        "nl": "De inzending is opnieuwd geopend."
+    },
+    "confirmReopenSubmissionTitle": {
+        "en": "Reopen this submission",
+        "nl": "Heropen deze inzending"
+    },
+    "confirmReopenSubmissionMessage": {
+        "en": "Please confirm that you would like to reopen this submission. When you reopen the submission, the student can continue working on this submission and resubmit it.",
+        "nl": "Bevestig dat je deze inzending opnieuw wilt openen. Na het heropenen van deze inzending kan de student verder met deze opgave en die opnieuw indienen."
+    },
+    "about": { "en": "About this submission", "nl": "Over deze inzending" },
+    "submittedOnTooltip": {
+        "en": "Submission date and time",
+        "nl": "Inleverdatum- en tijd"
+    },
+    "submittedOnDate": {
+        "en": "Submitted on {{date}}",
+        "nl": "Ingediend op {{date}}"
+    },
+    "timeSpentTooltip": {
+        "en": "Time spent on this assignment",
+        "nl": "Tijd besteed aan deze opgave"
+    },
+    "timeSpent": {
+        "en": "Time spent: {{interval}}",
+        "nl": "Tijdsbesteding: {{interval}}"
+    },
+
+    "reopen": { "en": "Reopen", "nl": "Heropen" },
+    "nrStudentTries": { "en": "Attempt: {{count}}", "nl": "Poging: {{count}}" },
+    "rating_1": { "en": "Very bad", "nl": "Heel slecht" },
+    "rating_2": { "en": "Bad", "nl": "Slecht" },
+    "rating_3": { "en": "Could be improved", "nl": "Kan beter" },
+    "rating_4": { "en": "Good", "nl": "Goed" },
+    "rating_5": { "en": "Excellent", "nl": "Uitstekend" },
+    "tooltipSticker_like": { "en": "Well done!", "nl": "Goed gedaan!" },
+    "tooltipSticker_dislike": { "en": "Could be better", "nl": "Kan beter" },
+    "tooltipSticker_checkyes": { "en": "Check!", "nl": "Check!" },
+    "tooltipSticker_checkno": { "en": "Nope", "nl": "Neen" },
+    "tooltipSticker_trophy": { "en": "You win!", "nl": "Winnaar!" },
+    "tooltipSticker_heart": { "en": "Lovely!", "nl": "Mooi!" },
+    "tooltipSticker_smile": { "en": "Nice!", "nl": "Goed!" },
+    "tooltipSticker_cool": { "en": "Cool!", "nl": "Cool!" },
+    "tooltipSticker_hmm": { "en": "Hmm…", "nl": "Hmm…" },
+    "tooltipSticker_sad": { "en": "So sad…", "nl": "Verdrietig…" },
+    "tooltipSticker_facepalm": { "en": "Really?", "nl": "Echt?" },
+    "tooltipSticker_puke": { "en": "Barf…", "nl": "Blech…" },
+    "withAssessment": {
+        "en": "Submissions with assessment",
+        "nl": "Inzendingen met beoordeling"
+    },
+    "commentBody": {
+        "en": "You may enter a rating, a comment or feedback for the student below. This will be shown to the student when (s)he views this submission.",
+        "nl": "Je kunt hieronder een beoordeling, opmerking of feedback voor de student invullen. Dit zal aan de student getoond worden als die deze inzending bekijkt."
+    },
+    "score": {
+        "en": "Score",
+        "nl": "Score"
+    },
+    "finalGrade": {
+        "en": "Final grade",
+        "nl": "Eindcijfer"
+    },
+    "grading": {
+        "en": "Grading",
+        "nl": "Beoordeling"
+    },
+    "overview": {
+        "en": "Overview",
+        "nl": "Overzicht"
+    },
+    "teacherComment": {
+        "en": "Comment by the teacher",
+        "nl": "Opmerking van de docent"
+    },
+    "overallAssessment": {
+        "en": "Overall assessment"
+    },
+    "teacherAssessmentTitle": {
+        "en": "Teacher assessment"
+    },
+    "submissionCount": {
+        "en": "Submission count",
+        "nl": "Aantal inzendingen"
+    },
+    "needsAssessment": {
+        "en": "Needs assessment",
+        "nl": "Moet beoordeeld worden"
+    },
+    "approve": {
+        "en": "Approve",
+        "nl": "Goedkeuren"
+    },
+    "unapprove": {
+        "en": "Unapprove",
+        "nl": "Afkeuren"
+    },
+    "previous": {
+        "en": "Previous submission",
+        "nl": "Vorige inzending"
+    },
+    "next": {
+        "en": "Next submission",
+        "nl": "Volgende inzending"
+    },
+    "override": {
+        "en": "Override",
+        "nl": "Vervang"
+    },
+    "assessmentMethod_correctAnswer": {
+        "en": "Correct answer assessment",
+        "nl": "Juiste-antwoordbeoordeling"
+    },
+    "assessmentMethod_perAnswer": {
+        "en": "Per answer assessment",
+        "nl": "Beoordeling per antwoord"
+    },
+    "assessmentMethod_scoreMapping": {
+        "en": "Score mapping assessment",
+        "nl": "Scoremapping-beoordeing"
+    },
+    "resetScore": {
+        "en": "Reset score",
+        "nl": "Reset score"
+    },
+    "confirmUnapproveTitle": {
+        "en": "Unapprove submission",
+        "nl": "Beoordeling afkeuren"
+    },
+    "confirmUnapproveMessage": {
+        "en": "Are you sure you want to unapprove this submission?",
+        "nl": "Weet je zeker dat je deze beoordeling wilt afkeuren?"
+    },
+    "confirmRemoveSubmissionTitle": {
+        "en": "Delete submission",
+        "nl": "Verwijder inzending"
+    },
+    "confirmRemoveSubmissionMessage": {
+        "en": "Are you sure you want to delete this submission? This action cannot be undone.",
+        "nl": "Weet je zeker dat je deze inzending wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt."
+    },
+    "confirmRemoveSubmissionsTitle": {
+        "en": "Remove submissions",
+        "nl": "Verwijder inzendingen"
+    },
+    "confirmRemoveSubmissionsMessage": {
+        "en": "Are you sure you want to remove these submissions? This action cannot be undone.",
+        "nl": "Weet je zeker dat je deze inzendingen wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt."
+    },
+    "noOfSubmissions": {
+        "en": "No of submissions",
+        "nl": "Aantal inzendingen"
+    },
+    "gradedSubmissions": {
+        "en": "Graded submissions",
+        "nl": "Beoordeelde inzendingen"
+    },
+    "unGradedSubmissions": {
+        "en": "Ungraded submissions",
+        "nl": "Inzendingen zonder beoordeling"
+    },
+    "viewAllGrades": {
+        "en": "View all grades",
+        "nl": "Bekijk alle cijfers"
+    },
+    "grade": {
+        "en": "Grade submissions",
+        "nl": "Kijk inzendingen na"
+    },
+    "totalScore": {
+        "en": "Total score",
+        "nl": "Totale score"
+    },
+    "notYetGraded": {
+        "en": "Not yet graded",
+        "nl": "Nog niet nagekeken"
+    },
+    "notSubmittedYet": {
+        "en": "Not submitted yet",
+        "nl": "Nog niet ingediend"
+    },
+    "testSubmissionAlert": {
+        "en": "This is a test submission created by you or a member of your team.",
+        "nl": "Dit is een testinzending die door u of een lid van uw team is ingediend."
+    },
+    "ratioOfGradedToTotal": {
+        "en": "Ratio of Graded/Total Submissions",
+        "nl": "Verhouding beoordeelde/totale inzendingen"
+    },
+    "showAll": { "en": "Show all", "nl": "Toon alles" },
+    "onlyShowApproved": { "en": "Show approved", "nl": "Toon goedgekeurd" },
+    "onlyShowUnapproved": {
+        "en": "Show unapproved",
+        "nl": "Toon niet-goedgekeurd"
+    }
+}

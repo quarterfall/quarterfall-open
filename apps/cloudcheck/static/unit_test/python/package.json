@@ -1,0 +1,8 @@
+{
+    "name": "unittest-python",
+    "version": "0.0.1",
+    "scripts": {
+        "build": "node build.js",
+        "test": "python3 test.py"
+    }
+}

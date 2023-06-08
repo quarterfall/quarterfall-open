@@ -1,0 +1,8 @@
+{
+    "name": "unittest-cpp",
+    "version": "0.0.1",
+    "scripts": {
+        "build": "node build.js",
+        "test": "cmake . && make && ./test"
+    }
+}

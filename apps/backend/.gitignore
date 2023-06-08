@@ -1,0 +1,14 @@
+dist
+node_modules
+.cache
+.env
+.env.devserver
+.env.staging
+.env.production
+
+# testing folders
+.nyc_output
+coverage
+
+# other files
+**/.DS_Store
