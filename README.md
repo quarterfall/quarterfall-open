@@ -2,19 +2,19 @@
 
 Open source smart learning tool for ICT education.
 
-- [Quarterfall Open](#quarterfall-open)
-  - [What's inside?](#whats-inside)
-    - [Apps and Packages](#apps-and-packages)
-    - [Utilities](#utilities)
-    - [Database setup](#database-setup)
-    - [Build](#build)
-    - [Develop](#develop)
-    - [Important notice](#important-notice)
-  - [Deployment](#deployment)
-    - [Docker](#docker)
-      - [Prerequisites](#prerequisites)
-      - [Build and run](#build-and-run)
-    - [Deploy to Google Cloud](#deploy-to-google-cloud)
+-   [Quarterfall Open](#quarterfall-open)
+    -   [What's inside?](#whats-inside)
+        -   [Apps and Packages](#apps-and-packages)
+        -   [Utilities](#utilities)
+        -   [Database setup](#database-setup)
+        -   [Build](#build)
+        -   [Develop](#develop)
+        -   [Important notice](#important-notice)
+    -   [Deployment](#deployment)
+        -   [Docker](#docker)
+            -   [Prerequisites](#prerequisites)
+            -   [Build and run](#build-and-run)
+        -   [Deploy to Google Cloud](#deploy-to-google-cloud)
 
 ## What's inside?
 
@@ -64,6 +64,8 @@ When running the first time, you need to run a script for the backend, which cre
 ```
 yarn run scripts
 ```
+
+After doing this, you need to create a Sendgrid account and add the API key to the `.env` file in the backend folder. This is required for sending emails. You can create a Sendgrid account [here](https://signup.sendgrid.com/). You can find the API key in the [Sendgrid dashboard](https://app.sendgrid.com/). Once you have created an account, you need to create the templates for the emails. You can find which templates you need to add in the `/apps/backend/src/config.ts` file. These templates require dynamic values. If you search for the `config.sendgrid.templates` keyword in your IDE, you can see which values you need to include in your template. You can find more information about creating templates [here](https://sendgrid.com/docs/for-developers/sending-email/using-templates/).
 
 ## Deployment
 
