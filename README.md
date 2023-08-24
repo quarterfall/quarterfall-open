@@ -112,3 +112,8 @@ This application can be deployed to Google Cloud. The following steps are requir
     -   Database actions: Create a Cloud SQL instance for both postgres and mysql
     -   File storage: Create a [Cloud Storage](https://cloud.google.com/storage/docs/discover-object-storage-console) bucket
     -   Analytics: Create three [Cloud Functions](https://cloud.google.com/functions/docs/quickstart)
+
+
+
+## Notice
+Part of the development of Quarterfall has been supported by the <a href="www.qped.eu">QPED</a> project, funded under the ERASMUS+ programme.
