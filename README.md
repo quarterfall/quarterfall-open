@@ -1,6 +1,6 @@
 # Quarterfall Open
 
-Quarterfall is a platform that helps teachers create a hands-off, interactive learning environment for their students. We focus on ICT education. Our platform is built by ICT teachers who got frustrated with the lack of good tools that understand our needs and that provide the flexibility we require to teach ICT topics such as programming, databases or mathematics. Quarterfall is available for free as open source software.
+Quarterfall is a platform that helps teachers create a hands-off, interactive learning environment for their students. We focus on ICT education. Our platform is built by ICT teachers who got frustrated with the lack of good tools that understand our needs and that provide the flexibility we require to teach ICT topics such as programming, databases or mathematics. Quarterfall is available for free as open source software. Explore Quarterfall's documentation <a href="https://help.quarterfall.com" target="_blank">here</a>.
 
 -   [Quarterfall Open](#quarterfall-open)
     -   [What's inside?](#whats-inside)
