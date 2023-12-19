@@ -116,4 +116,4 @@ This application can be deployed to Google Cloud. The following steps are requir
 
 
 ## Notice
-Part of the development of Quarterfall has been supported by the <a href="https://www.qped.eu">QPED</a> project, funded under the ERASMUS+ programme.
+Part of the development of Quarterfall has been supported by the <a href="https://qped-eu.github.io">QPED</a> project, funded under the ERASMUS+ programme.
